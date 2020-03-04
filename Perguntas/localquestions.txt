@@ -1,0 +1,273 @@
+F:A moeda se usa na Alemanha é o marco.
+P:Onde usa A moeda ?
+R:na Alemanha .
+
+F:Sean Connery interpretava o papel de James Bond nos primeiros filmes da série 007.
+P:Onde interpretava Sean Connery o papel de James Bond ?
+R:nos primeiros filmes da série 007 .
+
+F:Pierce Brosnan interpreta o papel de James Bond no último filme da série 007.
+P:Onde interpreta Pierce Brosnan o papel de James Bond ?
+R:no último filme da série 007 .
+
+F:Actualmente são permitidos pela CEE quatro intervalos comerciais num filme.
+P:Onde permitidos pela CEE quatro intervalos comerciais ?
+R:num filme .
+
+F:35 por cento das mulheres sofem de obesidade nos Estados Unidos.
+P:Onde sofem 35 por cento das mulheres de obesidade ?
+R:nos Estados Unidos .
+
+F:ocorreu uma catástrofe ecológica em Schweizerhalle, perto de Basileia.
+P:Onde ocorreu uma catástrofe ecológica ?
+R:perto de Basileia .
+
+F:Em 863 foi introduzido o alfabeto cirílico.
+P:Onde introduzido o alfabeto cirílico ?
+R:Em 863 .
+
+F:Há 900 milhões católicos no mundo.
+P:Onde Há 900 milhões católicos ?
+R:no mundo .
+
+F:Existe a pena de morte em 38 estados americanos.
+P:Onde Existe a pena de morte ?
+R:em 38 estados americanos .
+
+F:Houveram 38 execuções nos Estados Unidos em 1993.
+P:Onde Houveram 38 execuções ?
+R:nos Estados Unidos .
+
+F:Em 1990 foi abolido o apartheid na Á
+fica do Sul.
+P:Onde abolido o apartheid ?
+R:na Á
+fica do Sul .
+
+F:Há 905 milhões de analfabetos no mundo.
+P:Onde Há 905 milhões de analfabetos ?
+R:no mundo .
+
+F:A Greenpeace foi fundada em Vancouver, no Canadá.
+P:Onde fundada A Greenpeace ?
+R:no Canadá .
+
+F:Estão a decorrer no mundo 70 gerras.
+P:Onde decorrer 70 gerras ?
+R:no mundo .
+
+F:O El Niño ocorre no Pacífico.
+P:Onde ocorre O El Niño ?
+R:no Pacífico .
+
+F:1,4% dos escoceses falam gaélico na Escócia.
+P:Onde falam gaélico 1,4 % dos escoceses ?
+R:na Escócia .
+
+F:O CERN situa-se em Genebra.
+P:Onde situa-se O CERN ?
+R:em Genebra .
+
+F:As Brigadas Internacionais combateram na Guerra Civil de Espanha.
+P:Onde combateram As Brigadas Internacionais ?
+R:na Guerra Civil de Espanha .
+
+F:56 por cento do comércio mundial de diamantes se concentrou em Antuérpia em 1994.
+P:Onde se concentrou 56 por cento do comércio mundial de diamantes ?
+R:em Antuérpia .
+
+F:Morreram cerca de trinta pessoas nas inundações na Holanda e na Alemanha em 1995.
+P:Onde Morreram cerca de trinta pessoas ?
+R:nas inundações na Holanda e na Alemanha em 1995 .
+
+F:Christo demorou oito dias a embrulhar o Reichstag alemão em Berlim.
+P:Onde embrulhar Christo o Reichstag alemão ?
+R:em Berlim .
+
+F:Houveram 300 mortos por asfixia houve no metro de Baku.
+P:Onde houve por asfixia 300 mortos ?
+R:no metro de Baku .
+
+F:O estádio "Novo Gasómetro" é o complexo desportivo foi inaugurado em Buenos Aires em Dezembro de 1993.
+P:Onde inaugurado o complexo desportivo ?
+R:em Buenos Aires .
+
+F:Os Óscares entregam-se no Shrine Auditorium de Los Angeles.
+P:Onde entregam-se Os Óscares ?
+R:no Shrine Auditorium de Los Angeles .
+
+F:Explodiu uma carta-bomba em Madrid.
+P:Onde Explodiu uma carta-bomba ?
+R:em Madrid .
+sintética contra a malária.
+Portuguesa.
+
+F:Na Somália foi prorrogada a operação das Nações Unidas até 31 de Março de 1995.
+P:Onde prorrogada a operação das Nações Unidas até 31 de Março de 1995 ?
+R:Na Somália .
+
+F:A melhor maneira de combater as alergias é administrar, em quantidades mínimas, as substâncias que causariam ao paciente reacções alérgicas.
+P:Onde causariam que ao paciente reacções alérgicas ?
+R:em quantidades mínimas .
+
+F:Pretende-se levar a cabo o planeamento familiar no Peru mediante vasectomia e laqueação das trompas.
+P:Onde levar Pretende-se o planeamento familiar ?
+R:no Peru .
+
+F:148 milhões de pessoas vivem no Brasil.
+P:Onde vivem 148 milhões de pessoas ?
+R:no Brasil .
+
+F:O arquitecto japonês Arata Isozaki planeou o Palácio dos Desportos São Jorge em Barcelona.
+P:Onde planeou O arquitecto japonês Arata Isozaki o Palácio dos Desportos ?
+R:em Barcelona .
+
+F:Em 1973 Pinochet chegou ao poder no Chile.
+P:Onde chegou Pinochet ao poder ?
+R:no Chile .
+
+F:Nick Leeson nasceu em Watford.
+P:Onde nasceu Nick Leeson ?
+R:em Watford .
+
+F:Vladimir Zhirinovsky defendeu-se contra manifestantes em Estrasburgo atirando plantas e terra.
+P:Onde atirando plantas e terra ?
+R:em Estrasburgo .
+
+F:Marie-Jo Lafontaine nasceu em Antuérpia.
+P:Onde nasceu Marie-Jo Lafontaine ?
+R:em Antuérpia .
+
+F:A documenta tem lugar em Kassel.
+P:Onde tem A documenta lugar ?
+R:em Kassel .
+
+F:Existem 56.000 empresas artesanais no Hesse.
+P:Onde Existem 56.000 empresas artesanais ?
+R:no Hesse .
+
+F:A Hewlett-Packard (HP) foi fundada em Palo Alto.
+P:Onde fundada A Hewlett-Packard ( HP ) ?
+R:em Palo Alto .
+
+F:Cerca de 9000 físicos, cientistas e funcionário trabalham no CERN.
+P:Onde trabalham cientistas e funcionário Cerca de 9000 físicos ?
+R:no CERN .
+
+F:Os tanques do exército jugoslav entraram na Eslovénia a 27 de Junho de 1991.
+P:Onde entraram Os tanques do exército jugoslav ?
+R:na Eslovénia .
+
+F:O carro compacto Smart aparecerá no mercado em 1998.
+P:Onde aparecerá O carro compacto Smart ?
+R:no mercado .
+
+F:A lutas de gladiadores foi proibida no Coliseu em 438.
+P:Onde proibida A lutas de gladiadores ?
+R:no Coliseu .
+
+F:Morreram 232 pessoa de malária no Rajasthan.
+P:Onde Morreram 232 pessoa de malária ?
+R:no Rajasthan .
+
+F:As barras de chocolate "Milka" são produzidas na Alemanha.
+P:Onde produzidas As barras de chocolate `` Milka '' ?
+R:na Alemanha .
+
+F:O maior parque de energia eólica do Hesse foi montado em Seibertenrod em Vogelsberg.
+P:Onde montado O maior parque de energia eólica do Hesse ?
+R:em Vogelsberg .
+
+F:Fank Gerry está a contruir em Bilbau uma filial do Guggenheim.
+P:Onde está Fank Gerry ?
+R:em Bilbau uma filial do Guggenheim .
+
+F:O fabricante de móveis Vitra gere um museu em Weil am Rhein.
+P:Onde gere O fabricante de móveis Vitra um museu ?
+R:em Weil am Rhein .
+
+F:No Museu do Design Vitra são exibidos mais de 1200 cadeiras e outros móveis dos tempos modernos.
+P:Onde exibidos cadeiras e outros móveis dos tempos modernos ?
+R:No Museu do Design Vitra .
+
+F:A 25 de Julho ocorreu o atentado na estação de metro de Saint-Michel em Paris.
+P:Onde ocorreu o atentado ?
+R:em Paris .
+
+F:Em 1979 ocorreu a revolução islâmica no Irão.
+P:Onde ocorreu a revolução islâmica ?
+R:no Irão .
+
+F:O ferry que nau
+fagou na Suécia em 1994 chamava-se Estonia.
+P:Onde nau
+fagou que ?
+R:na Suécia .
+
+F:A Conferência Mundial do Clima de 1995 teve lugar em Berlim.
+P:Onde teve lugar A Conferência Mundial do Clima de 1995 ?
+R:em Berlim .
+
+F:Há 90 milhões de católicos há em Áfica.
+P:Onde há Há 90 milhões de católicos ?
+R:em Áfica .
+
+F:A 8 de Maio teve lugar a primeira volta das eleições legislativas na Hungria em 1994.
+P:Onde teve lugar a primeira volta das eleições legislativas ?
+R:na Hungria em 1994 .
+
+F:A 28 de Abril os cannabis foram despenalizados na Alemanha.
+P:Onde despenalizados os cannabis ?
+R:na Alemanha .
+
+F:A 28 de Abril os cannabis foram despenalizados na Alemanha.
+P:Onde despenalizados os cannabis ?
+R:na Alemanha .
+
+F:A 28 de Abril os cannabis foram despenalizados na Alemanha.
+P:Onde despenalizados os cannabis ?
+R:na Alemanha .
+
+F:A 28 de Abril os cannabis foram despenalizados na Alemanha.
+P:Onde despenalizados os cannabis ?
+R:na Alemanha .
+
+F:A 28 de Abril os cannabis foram despenalizados na Alemanha.
+P:Onde despenalizados os cannabis ?
+R:na Alemanha .
+
+F:A 28 de Abril os cannabis foram despenalizados na Alemanha.
+P:Onde despenalizados os cannabis ?
+R:na Alemanha .
+
+F:Sergi Bruguera foi derrotado por Andrei Medveded na final do Torneio de Monte-Carlo.
+P:Onde derrotado por Andrei Medveded Sergi Bruguera ?
+R:na final do Torneio de Monte-Carlo .
+
+F:Markus Wasmeier venceu o slalom super-gigante em Lillehammer.
+P:Onde venceu Markus Wasmeier o slalom super-gigante ?
+R:em Lillehammer .
+
+F:Aleksandr Vassilievich Korjakov nasceu em Moscovo.
+P:Onde nasceu Aleksandr Vassilievich Korjakov ?
+R:em Moscovo .
+
+F:A sétima cimeira da Organização da Conferência Islâmica ocorreu na Casablanca.
+P:Onde ocorreu A sétima cimeira da Organização da Conferência Islâmica ?
+R:na Casablanca .
+
+F:O Salão Internacional da Aeronáutica decorreu em Farnborough.
+P:Onde decorreu O Salão Internacional da Aeronáutica ?
+R:em Farnborough .
+
+F:Foram apresentados quase trezentos filmes no Festival de Cinema Mundial de Montreal.
+P:Onde apresentados quase trezentos filmes ?
+R:no Festival de Cinema Mundial de Montreal .
+
+F:Alan Rickman recebeu o prémio de interpretação masculina no Festival de Cinema de Montreal.
+P:Onde recebeu Alan Rickman o prémio de interpretação masculina ?
+R:no Festival de Cinema de Montreal .
+
+F:Após a tomada de reféns em Argel o Airbus da Air Fance aterrou no aeroporto de Marselha-Marignane.
+P:Onde aterrou o Airbus da Air Fance ?
+R:no aeroporto de Marselha-Marignane .

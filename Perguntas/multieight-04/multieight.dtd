@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!ELEMENT multieight (q+)>
+
+<!ELEMENT q (language+)>
+<!ATTLIST q
+          cnt CDATA #REQUIRED
+          category (D|F) #REQUIRED
+          answer_type (LOCATION|MANNER|MEASURE|OBJECT|ORGANIZATION|OTHER|PERSON|TIME) #REQUIRED>
+
+<!ELEMENT language (question,answer+)>
+<!ATTLIST language
+          val (BG|DE|EN|ES|FI|FR|IT|NL|PT) #REQUIRED
+          original (FALSE|TRUE) #REQUIRED>
+
+<!ELEMENT question (#PCDATA)>
+<!ATTLIST question
+          group (BTB|DFKI|ELDA|HELS|IRST|LING|UNED|UoA) #REQUIRED>
+
+<!ELEMENT answer (#PCDATA)>
+<!ATTLIST answer
+          n CDATA #REQUIRED
+          docid CDATA #IMPLIED>

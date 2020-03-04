@@ -1,0 +1,27 @@
+PESSOA LOCAL
+Onde <relacao> <entidade> ?
+Quem <relacao> <entidade> ?
+PESSOA PESSOA
+Quem <relacao> <entidade> ?
+Quem <relacao> <entidade> ?
+PESSOA VALOR
+Quando/Quanto <relacao> <entidade>?
+Quem <relacao> <entidade>?
+OBRA VALOR
+Quando/Quanto <relacao> <entidade>?
+O que <relacao> <entidade>?
+PESSOA ABSTRACCAO
+O que <relacao> <entidade> ?
+Quem <relacao> <entidade> ?
+ABSTRACCAO TEMPO
+Quando <relacao> <entidade> ?
+O que <relacao> <entidade> ?
+ORGANIZACAO TEMPO
+Quando <relacao> <entidade> ?
+Quem <relacao> <entidade> ?
+LOCAL VALOR
+Quanto <relacao> <entidade> ?
+Quem <relacao> <entidade> ?
+VALOR LOCAL
+Quem <relacao> <entidade> ?
+Quanto <relacao> <entidade> ?

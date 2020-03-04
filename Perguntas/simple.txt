@@ -1,0 +1,2315 @@
+F:O prémio Nobel foi atribuido a Thomas Mann em 1929.
+Q:Em que ano foi atribuído o prémio Nobel a Thomas Mann?
+A:1929.
+
+F:O Cesare Romiti é o administrador-delegado da Fiat.
+Q:Quem é o administrador-delegado da Fiat?
+A:Cesare Romiti.
+
+F:A prisão de San Vittore encontra-se na cidade de Milão.
+Q:Em que cidade se encontra a prisão de San Vittore?
+A:Milão.
+
+F:O hertz é a unidade de medida da frequência.
+Q:Qual a unidade de medida da frequência?
+A:hertz.
+
+F:O aumento da população mundial por ano é de 94 milhões.
+Q:Qual o aumento da população mundial por ano?
+A:94 milhões.
+
+F:O nome próprio do juiz Borselino é Paolo.
+Q:Qual o nome próprio do juiz Borselino?
+A:Paolo.
+
+F:Foram mortos três guarda-costas no atentado ao juiz Falcone.
+Q:Quantos guarda-costas foram mortos no atentado ao juiz Falcone?
+A:três.
+
+F:Shimon Peres é o o ministro dos negócios estrangeiros israelita.
+Q:Quem é Shimon Peres?
+A:o ministro dos negócios estrangeiros israelita.
+
+F:Ariel Sharon ocupa o cargo de líder do Likud.
+Q:Que cargo ocupa Ariel Sharon?
+A:líder do Likud.
+
+F:Prémio Nobel da Paz foi atribuído a Yasser Arafat em 1994.
+Q:Quando foi atribuído o Prémio Nobel da Paz a Yasser Arafat?
+A:1994.
+
+F:Jerusalém é a cidade santa dos judeus.
+Q:Qual é a cidade santa dos judeus?
+A:Jerusalém.
+
+F:O número de refugiados palestinianos no Líbano eleva-se a 400.000. 
+Q:A quanto se eleva o número de refugiados palestinianos no Líbano?
+A:400.000.
+
+F:A Intifada rebentou no ano de 1987.
+Q:Em que ano rebentou a Intifada?
+A:1987.
+
+F:os pilotos suicidas japoneses chamavam-se kamikaze.
+Q:Como se chamavam os pilotos suicidas japoneses?
+A:kamikaze.
+
+F:A França é a principal fornecedora de armas a países do Terceiro Mundo.
+Q:Que nação é a principal fornecedora de armas a países do Terceiro Mundo?
+A:França.
+
+F:A bomba atómica sobre Hiroshima foi lançada em 1945
+Q:Em que ano foi lançada a bomba atómica sobre Hiroshima?
+A:1945.
+
+F:Hitler pertencia ao partido nazi.
+Q:A que partido pertencia Hitler?
+A:partido nazi.
+
+F:A língua se fala na Alemanha é o alemão.
+Q:Que língua se fala na Alemanha?
+A:alemão.
+
+F:Seis milhões de judeus foram mortos durante a Segunda Guerra Mundial.
+Q:Quantos milhões de judeus foram mortos durante a Segunda Guerra Mundial?
+A:seis.
+
+F:O campo de concentração de Auschwitz era na Polónia.
+Q:Onde era o campo de concentração de Auschwitz?
+A:Polónia.
+
+F:Telecom Italia é o maior operador de telemóveis do mundo.
+Q:Quem é o maior operador de telemóveis do mundo?
+A:Telecom Italia.
+
+F:Em 1945 terminou a Segunda Guerra Mundial.
+Q:Em que ano terminou a Segunda Guerra Mundial?
+A:1945.
+
+F:O primeiro nome de Hitler é Adolf.
+Q:Qual é o primeiro nome de Hitler?
+A:Adolf.
+
+F:A moeda se usa na Alemanha é o marco.
+Q:Que moeda se usa na Alemanha?
+A:marco.
+
+F:Adolf Hitler foi o autor de "Mein Kampf".
+Q:Quem foi o autor de "Mein Kampf"?
+A:Adolf Hitler.
+
+F:A capital da Rússia é Moscovo.
+Q:Qual é a capital da Rússia?
+A:Moscovo.
+
+F:Volkswagen é a companhia automóvel produz o "carocha".
+Q:Que companhia automóvel produz o "carocha"?
+A:Volkswagen.
+
+F:O título do filme de Stephen Frears com Glenn Close, John Malkovich e Michelle Pfeiffer é Ligações perigosas.
+Q:Qual o título do filme de Stephen Frears com Glenn Close, John Malkovich e Michelle Pfeiffer?
+A:Ligações perigosas
+
+F:Os Estados Unidos são o país que faz fronteira com o Canadá.
+Q:Que país faz fronteira a norte com o Canadá?
+A:Estados Unidos.
+
+F:O primeiro presidente dos Estados Unidos foi George Washington.
+Q:Quem foi o primeiro presidente dos Estados Unidos?
+A:George Washington.
+
+F:A profissão de James Bond é agente secreto da contra-espionagem britânica.
+Q:Qual a profissão de James Bond?
+A:agente secreto da contra-espionagem britânica.
+
+F:Sean Connery interpretava o papel de James Bond nos primeiros filmes da série 007.
+Q:Quem interpretava o papel de James Bond nos primeiros filmes da série 007?
+A:Sean Connery.
+
+F:Pierce Brosnan interpreta o papel de James Bond no último filme da série 007.
+Q:Quem interpreta o papel de James Bond no último filme da série 007?
+A:Pierce Brosnan.
+
+F:O Motorshow realiza-se em Bolonha.
+Q:Onde se realiza o Motorshow?
+A:Bolonha.
+
+F:Uma hipoteca pede-se ao banco.
+Q:A quem se pede uma hipoteca?
+A:ao banco.
+
+F:Guilherme, o filho mais velho do príncipe Carlos frequentará a escola de Eton.
+Q:Que escola frequentará Guilherme, o filho mais velho do príncipe Carlos?
+A:Eton.
+
+F:Quando era criança Michael Jackson fazia parte do grupo musica Jackson Five.
+Q:De que grupo musical fazia parte Michael Jackson quando era criança?
+A:Jackson Five.
+
+F:Jimi Hendrix morreu de heroína.
+Q:Como morreu Jimi Hendrix?
+A:heroína.
+
+F:Elvis era o pai de Lisa Marie Presley.
+Q:Quem era o pai de Lisa Marie Presley?
+A:Elvis.
+
+F:Michael Jackson casou-se com Lisa Marie Presley.
+Q:Com quem se casou Michael Jackson?
+A:Lisa Marie Presley.
+
+F:Michael Jackson começou a cantar no grupo "Jackson Five" aos três anos.
+Q:Com que idade é que Michael Jackson começou a cantar no grupo "Jackson Five"?
+A:aos três anos.
+
+F:Michael Jackson distingue-se no género musical "pop".
+Q:Em que género musical se distingue Michael Jackson?
+A:música "pop".
+
+F:A companhia discográfica de Michael Jackson chama-se ATV Music.
+Q:Como se chama a companhia discográfica de Michael Jackson?
+A:ATV Music.
+
+F:John L. Baird foi o inventor da televisão.
+Q:Quem foi o inventor da televisão?
+A:John L. Baird.
+
+F:Actualmente são permitidos pela CEE quatro intervalos comerciais num filme.
+Q:Quantos intervalos comerciais num filme são permitidos actualmente pela CEE?
+A:quatro.
+
+F:A Mossad é o serviço secreto israelita.
+Q:O que é a Mossad?
+A:serviço secreto israelita.
+
+F:O INCB é o International Narcotics Control Board.
+Q:O que é o INCB?
+A:International Narcotics Control Board.
+
+F:Pietro Pacciani pelos crimes do monstro de Florença foi condenado a prisão perpétua.
+Q:A que pena foi condenado Pietro Pacciani pelos crimes do monstro de Florença?
+A:prisão perpétua.
+
+F:São atribuídos ao Monstro de Florença oito homicídios duplos.
+Q:Quantos crimes são atribuídos ao Monstro de Florença?
+A:oito homicídios duplos.
+
+F:Corriere della Sera é o diário italiano mais lido.
+Q:Qual o diário italiano mais lido?
+A:Corriere della Sera.
+
+F:35 por cento das mulheres sofrem de obesidade nos Estados Unidos.
+Q:Quantas pessoas sofrem de obesidade nos Estados Unidos?
+A:35 por cento das mulheres.
+
+F:A Greenpeace foi fundada em 1971.
+Q:Em que ano foi fundada a Greenpeace?
+A:1971.
+
+F:ocorreu uma catástrofe ecológica em Schweizerhalle, perto de Basileia.
+Q:Onde ocorreu uma catástrofe ecológica?
+A:Schweizerhalle, perto de Basileia.
+
+F:Os petroleiros que causaram a catástrofe ecológica junto a Trinidade e Tobago em 1979 eram de nacionalidade liberiana.
+Q:De que nacionalidade eram os dois petroleiros que causaram a catástrofe ecológica junto a Trinidade e Tobago em 1979?
+A:liberiana.
+
+F:Arafat reside no Palácio Andalus.
+Q:Onde reside Arafat?
+A:Palácio Andalus.
+
+F:Em 863 foi introduzido o alfabeto cirílico.
+Q:Quando foi introduzido o alfabeto cirílico?
+A:863.
+
+F:Na Europa há 35 milhões de desempregados.
+Q:Quantos desempregados há na Europa?
+A:35 milhões.
+
+F:O presidente da Greenpeace Internacional chama-se Thilo Bode.
+Q:Como se chama o presidente da Greenpeace Internacional?
+A:Thilo Bode.
+
+F:Tóquio é a capital do Japão.
+Q:Qual é a capital do Japão?
+A:Tóquio.
+
+F:As plantas são seres vivos são capazes de absorver dióxido de carbono.
+Q:Que seres vivos são capazes de absorver dióxido de carbono?
+A:as plantas.
+
+F:A Antárctida é coberta por gelo.
+Q:Por que é coberta a Antárctida?
+A:gelo.
+
+F:O buraco do ozono é causado por óxidos de azoto.
+Q:Por que é causado o buraco do ozono?
+A:óxidos de azoto.
+
+F:Fumos dos escapes dos automóveis podem causar o cancro do pulmão.
+Q:Que pode causar o cancro do pulmão?
+A:fumos dos escapes dos automóveis.
+
+F:O fenómeno conhecido como "buraco do ozono" foi observado sobre a Antárctida.
+Q:Sobre que área foi observado o fenómeno conhecido como "buraco do ozono"?
+A:Antárctida.
+
+F:O papa tem 75 anos.
+Q:Quantos anos tem o Papa?
+A:75.
+
+F:Há três religiões monoteístas no mundo.
+Q:Quantas religiões monoteístas há no mundo?
+A:três.
+
+F:Há 900 milhões católicos no mundo.
+Q:Quantos são os católicos no mundo?
+A:900 milhões.
+
+F:Existem menos de 15 milhões de judeus no mundo.
+Q:Quantos judeus existem no mundo?
+A:menos de 15 milhões.
+
+F:A Basílica de São Pedro encontra-se em Roma.
+Q:Em que cidade se encontra a Basílica de São Pedro?
+A:Roma.
+
+F:Existe a pena de morte em 38 estados americanos.
+Q:Em quantos estados americanos existe a pena de morte?
+A:38.
+
+F:Houveram 38 execuções nos Estados Unidos em 1993.
+Q:Quantas execuções houve nos Estados Unidos em 1993?
+A:38.
+
+F:Em 1990 foi abolido o apartheid na África do Sul.
+Q:Em que ano foi abolido o apartheid na África do Sul?
+A:1990.
+
+F:A população dos EUA eleva-se a 261.638.000 habitantes.
+Q:A quanto se eleva a população dos EUA?
+A:261.638.000 habitantes.
+
+F:Nelson Mandela cumpriu 27 anos de prisão.
+Q:Quantos anos de prisão cumpriu Nelson Mandela?
+A:27.
+
+F:O partido separatista curdo chama-se PKK.
+Q:Como se chama o partido separatista curdo?
+A:PKK.
+
+F:Há 383 detidos no Corredor da Morte na Califórnia.
+Q:Quantos detidos há no Corredor da Morte na Califórnia?
+A:383.
+
+F:A UNICEF é o Fundo das Nações Unidas para a Infância.
+Q:O que é a UNICEF?
+A:Fundo das Nações Unidas para a Infância.
+
+F:A escolaridade obrigatória em Itália termina aos 14 anos.
+Q:Em que idade termina a escolaridade obrigatória em Itália?
+A:14 anos.
+
+F:Em 1989 foi aprovada a Convenção dos Direitos da Criança.
+Q:Quando foi aprovada a Convenção dos Direitos da Criança?
+A:1989.
+
+F:No ano em que completam 18 anos, os jovens são convocados para a inspecção militar.
+Q:Com que idade são convocados os jovens para a inspecção militar?
+A:no ano em que completam 18 anos.
+
+F:Há 905 milhões de analfabetos no mundo.
+Q:Quantos analfabetos há no mundo?
+A:905 milhões.
+
+F:Philippe Douste-Blazy é o ministro da Saúde francês.
+Q:Quem é o ministro da Saúde francês?
+A:Philippe Douste-Blazy.
+
+F:O Papa está mal.
+Q:Como está o Papa?
+A:mal.
+
+F:A empresa Select foi acusada de usar trabalho infantil.
+Q:Que empresa foi acusada de usar trabalho infantil?
+A:Select.
+
+F:O presidente americano Clinton não se apresentou ao serviço militar.
+Q:Que presidente americano não se apresentou ao serviço militar?
+A:Clinton.
+
+F:Henri Becquerel descobriu a radioactividade.
+Q:Quem descobriu a radioactividade?
+A:Henri Becquerel.
+
+F:A Greenpeace foi fundada em Vancouver, no Canadá.
+Q:Onde foi fundada a Greenpeace?
+A:Vancouver, no Canadá.
+
+F:O Greenpeace funciona há 25 anos.
+Q:Há quantos anos funciona o Greenpeace?
+A:25.
+
+F:O objectivo da primeira acção realizada pela Greenpeace era impedir as experiências nucleares americanas na ilha d.
+Q:Qual era o objectivo da primeira acção realizada pela Greenpeace?
+A:impedir as experiências nucleares americanas na ilha d.
+
+F:Estão a decorrer no mundo 70 gerras.
+Q:Quantas guerras estão a decorrer no mundo?
+A:70.
+
+F:Há cerca de 100 milhões de minas anti-pessoais há no mundo.
+Q:Quantas minas anti-pessoais há no mundo?
+A:cerca de 100 milhões.
+
+F:Químicos são a categoria profissional está mais em risco de cancro do pulmão.
+Q:Que categoria profissional está mais em risco de cancro do pulmão?
+A:químicos.
+
+F:A pele é a parte do organismo é atacada pelo vírus Ebola.
+Q:Que parte do organismo é atacada pelo vírus Ebola?
+A:pele.
+
+F:Em 1979 registou-se pela primeira vez o vírus Ebola.
+Q:Quando é que se registou pela primeira vez o vírus Ebola?
+A:1979.
+
+F:O Comité Internacional da Cruz Vermelha é uma organização humanitária.
+Q:O que é o Comité Internacional da Cruz Vermelha?
+A:organização humanitária.
+
+F:O vírus Ebola é transmitido por contacto.
+Q:Como é transmitido o vírus Ebola?
+A:por contacto.
+
+F:O Ano Novo chinês calha a 10 de Fevereiro.
+Q:Em que dia calha o Ano Novo chinês?
+A:10 de Fevereiro.
+
+F:Jean-Bertrand Aristide é o primeiro presidente do Haiti eleito democraticamente.
+Q:Quem é Jean-Bertrand Aristide?
+A:o primeiro presidente do Haiti eleito democraticamente.
+
+F:O El Niño ocorre no Pacífico.
+Q:Onde ocorre o El Niño?
+A:no Pacífico.
+
+F:Nixon demitiu-se a 9 de Agosto de 1974.
+Q:Quando se demitiu Nixon?
+A:a 9 de Agosto de 1974.
+
+F:O Conselho de Segurança da ONU impôs o embargo contra o Iraque.
+Q:Quem impôs o embargo contra o Iraque?
+A:o Conselho de Segurança da ONU.
+
+F:O nome os zapatistas tirara o nome de Emiliano Zapata.
+Q:De quem tiraram o nome os zapatistas?
+A:Emiliano Zapata.
+
+F:Há 100.000 genes humanos.
+Q:Quantos genes humanos há?
+A:100.000.
+
+F:Os amish são os descendentes de anabaptistas suíços da Europa do século XVI.
+Q:Quem são os amish?
+A:descendentes de anabaptistas suíços da Europa do século XVI.
+
+F:Akihito é o imperador do Japão.
+Q:Quem é o imperador do Japão?
+A:Akihito.
+
+F:1,4% dos escoceses falam gaélico na Escócia.
+Q:Quantas pessoas falam gaélico na Escócia?
+A:1,4% dos escoceses.
+
+F:A Letónia obteve a independência em 1991.
+Q:Quando obteve a Letónia a independência?
+A:1991.
+
+F:A mesquita de al-Aqsa é em Jerusalém.
+Q:Onde é a mesquita de al-Aqsa?
+A:Jerusalém.
+
+F:O pirilampo é capaz de emitir luz.
+Q:Que animal é capaz de emitir luz?
+A:pirilampo.
+
+F:O ozono forma-se através de reacções fotoquímicas atmosféricas na presença d.
+Q:Como se forma o ozono?
+A:através de reacções fotoquímicas atmosféricas na presença d.
+
+F:James Joyce escreveu "Ulisses".
+Q:Quem escreveu "Ulisses"?
+A:James Joyce.
+
+F:O Vale dos Reis é em Tebas.
+Q:Onde é o Vale dos Reis?
+A:em Tebas.
+
+F:A companhia aérea oficial alemã chama-se Lufthansa.
+Q:Como se chama a companhia aérea oficial alemã?
+A:Lufthansa.
+
+F:O príncipe Carlos e Diana se casaram-se em 1981.
+Q:Quando é que o príncipe Carlos e Diana se casaram?
+A:1981.
+
+F:O CERN situa-se em Genebra.
+Q:Onde se situa o CERN?
+A:Genebra.
+
+F:O Túnel da Mancha custou 15 biliões de dólares.
+Q:Quanto custou o Túnel da Mancha?
+A:15 biliões de dólares.
+
+F:O Centro Médico Cedars-Sinai é em Los Angeles.
+Q:Onde é o Centro Médico Cedars-Sinai?
+A:Los Angeles.
+
+F:O furacão Andrew ocorreu em 1992.
+Q:Em que ano ocorreu o furacão Andrew?
+A:1992.
+
+F:A UEFA é o orgão regulador do futebol europeu.
+Q:O que é a UEFA?
+A:o orgão regulador do futebol europeu.
+
+F:Galway fica no país europeu Irlanda.
+Q:Em que país europeu fica Galway?
+A:Irlanda.
+
+F:OS Jogos Olímpicos de Barcelona foram em 1992.
+Q:Em que ano foram os Jogos Olímpicos de Barcelona?
+A:1992.
+
+F:OS implantes mamários são feitos de gel de silicone.
+Q:De que são feitos os implantes mamários?
+A:gel de silicone.
+
+F:Mel Gibson realizou "Braveheart".
+Q:Quem realizou "Braveheart"?
+A:Mel Gibson.
+
+F:Yves Saint-Laurent é costureiro de alta-costura.
+Q:Quem é Yves Saint-Laurent?
+A:costureiro de alta-costura.
+
+F:a secessão da Bósnia da Jugoslávia ocorreu no início de 1992.
+Q:Em que ano ocorreu a secessão da Bósnia da Jugoslávia?
+A:no início de 1992.
+
+F:O ataque bombista ao World Trade Center ocorreu há dois anos.
+Q:Quando ocorreu o ataque bombista ao World Trade Center?
+A:há dois anos.
+
+F:John Lennon foi assassinado em 1980.
+Q:Quando é que John Lennon foi assassinado?
+A:1980.
+
+F:Os antioxidantes desactivam os radicais livres.
+Q:O que fazem os antioxidantes?
+A:desactivam os radicais livres.
+
+F:River Phoenix morreu de overdose.
+Q:De que morreu River Phoenix?
+A:overdose.
+
+F:Em 1909 o cometa Halley foi visível. 
+Q:Em que ano foi visível o cometa Halley?
+A:1909.
+
+F:O solstício de verão calha no dia 21 de Junho.
+Q:Em que dia calha o solstício de verão?
+A:21 de Junho.
+
+F:O ácido salicílico é extraído da casca de salgueiro.
+Q:De que é extraído o ácido salicílico?
+A:casca de salgueiro.
+
+F:A Torre Inclinada é em Pisa.
+Q:Onde é a Torre Inclinada?
+A:Pisa.
+
+F:O megahertz é a unidade em que é medida a velocidade de processamento de um chip.
+Q:Em que unidade é medida a velocidade de processamento de um chip?
+A:em megahertz.
+
+F:Paul Simon é um político.
+Q:Quem é Paul Simon?
+A:político.
+
+F:Os carabinieri são o corpo de polícia paramilitar que patrulha as 5000 milhas d.
+Q:O que são os carabinieri?
+A:o corpo de polícia paramilitar que patrulha as 5000 milhas d.
+
+F:O aeroporto de Heathrow é em Londres.
+Q:Onde é o aeroporto de Heathrow?
+A:Londres.
+
+F:Tom Hanks é o protagonista de "Sinfonia de Amor".
+Q:Quem é o protagonista de "Sinfonia de Amor"?
+A:Tom Hanks.
+
+F:A Yakuza é a mafia japonesa.
+Q:O que é a Yakuza?
+A:mafia japonesa.
+
+F:Uma alergia pode ser tratada com medicamentos de venda livre, tais como gotas para os olhos.
+Q:Como pode ser tratada uma alergia?
+A:com medicamentos de venda livre, tais como gotas para os olhos.
+
+F:O monóxido de carbono é incolor.
+Q:De que cor é o monóxido de carbono?
+A:incolor.
+
+F:Rudolfo Giuliani é o Presidente da Câmara de Nova Iorque.
+Q:Quem é o Presidente da Câmara de Nova Iorque?
+A:Rudolfo Giuliani.
+
+F:A FDA é a Food and Drug Administration.
+Q:O que é a FDA?
+A:Food and Drug Administration.
+
+F:As plantas convertem a luz em alimento pela fotossíntese.
+Q:Como é que as plantas convertem a luz em alimento?
+A:pela fotossíntese.
+
+F:O Museu do Hermitage fica em São Petersburgo.
+Q:Onde fica o Museu do Hermitage?
+A:em São Petersburgo.
+
+F:120 cardeais elegem o Papa.
+Q:Quantos cardeais elegem o Papa?
+A:120.
+
+F:o primeiro nome de Armani é Giorgio.
+Q:Qual é o primeiro nome de Armani?
+A:Giorgio.
+
+F:O MRI funciona usa ímanes poderosos para explorar um fenómen.
+Q:Como funciona o MRI?
+A:o MRI usa ímanes poderosos para explorar um fenómen.
+
+F:Aristóteles Onassis é grego.
+Q:Qual é a nacionalidade de Aristóteles Onassis?
+A:grego.
+
+F:A Via Láctea é a galáxia da Terra.
+Q:A que galáxia pertence a Terra?
+A:Via Láctea.
+
+F:A Estátua da Liberdade foi construída em 1886.
+Q:Em que ano foi construída a Estátua da Liberdade?
+A:1886.
+
+F:Os cabos de fibra óptica são feitos de finas camadas de vidro.
+Q:De que são feitos os cabos de fibra óptica?
+A:finas camadas de vidro.
+
+F:Picasso pintou a "Guernica".
+Q:Quem pintou a "Guernica"?
+A:Picasso.
+
+F:A Chechénia tem uma população de 1,2 milhões de habitantes.
+Q:Qual a população da Chechénia?
+A:1,2 milhões de habitantes.
+
+F:O governo tem a França tem a forma de república.
+Q:Que forma de governo tem a França?
+A:república.
+
+F:Há cinco continentes.
+Q:Quantos continentes há?
+A:cinco.
+
+F:O nome da mulher de Kurt Cobain era Courtney Love.
+Q:Qual o nome da mulher de Kurt Cobain?
+A:Courtney Love.
+
+F:A guerra do Yom Kippur teve lugar em 1973.
+Q:Em que ano teve lugar a guerra do Yom Kippur?
+A:1973.
+
+F:10,000 morrem devido a minas anti-pessoal anualmente.
+Q:Quantas pessoas morrem devido a minas anti-pessoal anualmente?
+A:10,000.
+
+F:O Etna é o vulcão activo mais alto da Europa.
+Q:Qual o vulcão activo mais alto da Europa?
+A:o Etna.
+
+F:Liffey é o rio que banha Dublin.
+Q:Que rio banha Dublin?
+A:Liffey.
+
+F:Cerca de 90% bávaros são católicos.
+Q:Quantos bávaros são católicos?
+A:cerca de 90%.
+
+F:A Amnistia Internacional é o grupo preocupado com os direitos humanos.
+Q:O que é a Amnistia Internacional?
+A:grupo preocupado com os direitos humanos.
+
+F:Silvio Berlusconi é um magnata dos média conservador.
+Q:Quem é Silvio Berlusconi?
+A:um magnata dos média conservador.
+
+F:"Forza Italia" significa Força, Itália!.
+Q:O que significa "Forza Italia"?
+A:Força, Itália!.
+
+F:O artista Christo embrulhou uma ponte parisiense.
+Q:O que embrulhou o artista Christo?
+A:uma ponte parisiense.
+
+F:Luthier faz guitarras.
+Q:O que faz um luthier?
+A:guitarras.
+
+F:A sonda espacial Ulisses foi lançada em 1990.
+Q:Quando foi lançada a sonda espacial Ulisses?
+A:1990.
+
+F:Os Simpsons são uma família cujos membros se amam uns aos outros e que dão un.
+Q:Quem são os Simpsons?
+A:uma família cujos membros se amam uns aos outros e que dão un.
+
+F:A maçonaria é uma sociedade secreta.
+Q:O que é a maçonaria?
+A:uma sociedade secreta.
+
+F:Aldrich H. Ames é acusado de espiar para os russos.
+Q:De que é acusado Aldrich H. Ames?
+A:espiar para os russos.
+
+F:A Praça Vermelha fica em Moscovo.
+Q:Onde fica a Praça Vermelha?
+A:Moscovo.
+
+F:Pink Floyd foi a banda que contribuiu para a banda sonora do filme "O Ponto de Zabriskie".
+Q:Que banda contribuiu para a banda sonora do filme "O Ponto de Zabriskie"?
+A:Pink Floyd.
+
+F:James Joyce foi fotografada por Man Ray.
+Q:Que celebridade foi fotografada por Man Ray?
+A:James Joyce.
+
+F:Em 1978 o Papa João Paulo II tornou-se o Sumo Pontífice.
+Q:Em que ano se tornou o Papa João Paulo II o Sumo Pontífice?
+A:1978.
+
+F:Os paraquedistas americanos libertaram a cidade de Saint-Mère-Église no Dia D.
+Q:Quem libertou a cidade de Saint-Mère-Église no Dia D?
+A:paraquedistas americanos.
+
+F:Alan Turing é o cientista britânico que os autores redescobrem como o rei nã.
+Q:Quem é Alan Turing?
+A:o cientista britânico que os autores redescobrem como o rei nã.
+
+F:Beck Hansen tem 23 anos.
+Q:Qual a idade de Beck Hansen?
+A:23.
+
+F:Arlequim é uma personagem da "commedia dell'arte" italiana.
+Q:Quem é Arlequim?
+A:Uma personagem da "commedia dell'arte" italiana.
+
+F:As Brigadas Internacionais combateram na Guerra Civil de Espanha.
+Q:Em que guerra combateram as Brigadas Internacionais?
+A:Guerra Civil de Espanha.
+
+F:Nicolau II foi o último czar da Rússia.
+Q:Quem foi o último czar da Rússia?
+A:Nicolau II.
+
+F:Pode poupar energia verificando se se está na tarifa energética correcta.
+Q:Como se pode poupar energia?
+A:verificando se se está na tarifa energética correcta.
+
+F:O pombo é um animal que arrulha.
+Q:Que animal arrulha?
+A:pombo.
+
+F:Há menos de 1000 pandas em estado selvagem na China.
+Q:Quantos pandas há em estado selvagem na China?
+A:menos de 1000.
+
+F:Jodie Foster representa o papel de prostituta em "Taxi Driver".
+Q:Quem representa o papel de prostituta em "Taxi Driver"?
+A:Jodie Foster.
+
+F:A acupunctura funciona estimulando e balançando o chi, uma força vital que se concentr.
+Q:Como funciona a acupunctura?
+A:estimulando e balançando o chi, uma força vital que se concentr.
+
+F:O anidrido acético é usado para transformar ópio em heroína.
+Q:Para que é usado o anidrido acético?
+A:para transformar ópio em heroína.
+
+F:A Argentina é o pais originário do tango.
+Q:De que país é originário o tango?
+A:Argentina.
+
+F:Mitubishi Bank tem nacionalidade japonesa.
+Q:Qual a nacionalidade do Mitubishi Bank?
+A:japonesa.
+
+F:AI é o acrónimo da Amnistia Internacional.
+Q:Qual o acrónimo da Amnistia Internacional?
+A:AI.
+
+F:O budismo professa-se na Tailândia.
+Q:Em que país se professa o budismo?
+A:Tailândia.
+
+F:OS Estados Unidos exportam arroz.
+Q:Que país exporta arroz?
+A:Estados Unidos.
+
+F:A África do Sul é o país que é o maior produtor de diamantes.
+Q:Qual é o país que é o maior produtor de diamantes?
+A:África do Sul.
+
+F:As economias da América Latina afectaram o "efeito tequilha"?
+Q:Que afectou o "efeito tequilha"?
+A:as economias da América Latina.
+
+F:O "efeito tequilha" deveu-se à crise financeira mexicana.
+Q:A que se deveu o "efeito tequilha"?
+A:à crise financeira mexicana.
+
+F:A África do Sul regressou à UNESCO após 38 anos de ausência.
+Q:Que país regressou à UNESCO após 38 anos de ausência?
+A:África do Sul.
+
+F:Yasser Arafat, Shimon Peres e Yitzhak Rabin partilharam o Prémio Nobel da Paz de 1994.
+Q:Que prémio partilharam Yasser Arafat, Shimon Peres e Yitzhak Rabin?
+A:o Prémio Nobel da Paz de 1994.
+
+F:56 por cento do comércio mundial de diamantes se concentrou em Antuérpia em 1994.
+Q:Que percentagem do comércio mundial de diamantes se concentrou em Antuérpia em 1994?
+A:56 por cento.
+
+F:Morreram cerca de trinta pessoas nas inundações na Holanda e na Alemanha em 1995.
+Q:Quantas pessoas morreram nas inundações na Holanda e na Alemanha em 1995?
+A:cerca de trinta.
+
+F:Há em Espanha entre 5.000 e 6.000 budistas.
+Q:Quantos budistas há em Espanha?
+A:entre 5.000 e 6.000.
+
+F:A distância que é percorrida no rali Granada-Dacar é de 10.000 quilómetros.
+Q:Qual a distância que é percorrida no rali Granada-Dacar?
+A:10.000 quilómetros.
+
+F:A Selva Lacandona tem uma área de 1.836.611 hectares.
+Q:Qual a área da Selva Lacandona?
+A:1.836.611 hectares.
+
+F:Christo demorou oito dias a embrulhar o Reichstag alemão em Berlim.
+Q:Quanto tempo demorou Christo a embrulhar o Reichstag alemão em Berlim?
+A:oito dias.
+
+F:O furacão "Angela" nas Filipinas provocou 190 desaparecidos.
+Q:Quantos desaparecidos provocou o furacão "Angela" nas Filipinas?
+A:190.
+
+F:O vaivém Atlantis levava a bordo cinco astronautas.
+Q:Quantos astronautas levava a bordo o vaivém Atlantis?
+A:cinco.
+
+F:Houveram 300 mortos por asfixia houve no metro de Baku.
+Q:Quantos mortos por asfixia houve no metro de Baku?
+A:300.
+
+F:Foram disputados 530 quilómetros da fronteira mútua pela Argentina e pelo Chile.
+Q:Quantos quilómetros da fronteira mútua foram disputados pela Argentina e pelo Chile?
+A:530.
+
+F:O interior de um barco chama-se bojo.
+Q:Como se chama o interior de um barco?
+A:bojo.
+
+F:O petroleiro Annie-1 teve um acidente depois do petroleiro "Mar Egeu".
+Q:Que petroleiro teve um acidente depois do petroleiro "Mar Egeu"?
+A:o Annie-1.
+
+F:A água é um líquido inodoro e insípido
+Q:Que líquido é inodoro e insípido?
+A:a água.
+
+F:O "Chester Beatty" contem os Evangelhos e os Actos dos Apóstolos.
+Q:Que contem o "Chester Beatty"?
+A:os Evangelhos e os Actos dos Apóstolos.
+
+F:Reichstag fica em Berlim.
+Q:Onde fica o Reichstag?
+A:Berlim.
+
+F:O tufão "Angela" nas Filipinas  causou mais de 1.000 mortos ou desaparecidos?
+Q:Que tufão nas Filipinas causou mais de 1.000 mortos ou desaparecidos?
+A:o "Angela".
+
+F:Joseph Bryan Thomson inalou vapores do aerossol de um ambientador que provocaram a sua morte.
+Q:Que inalou Joseph Bryan Thomson que lhe provocou a morte?
+A:vapores do aerossol de um ambientador.
+
+F:O Barão Marcel Bich inventou a esferográfica Bic.
+Q:O que é que o Barão Marcel Bich inventou?
+A:a esferográfica Bic.
+
+F:O estádio "Novo Gasómetro" é o complexo desportivo foi inaugurado em Buenos Aires em Dezembro de 1993.
+Q:Que complexo desportivo foi inaugurado em Buenos Aires em Dezembro de 1993?
+A:o estádio "Novo Gasómetro".
+
+F:O Discovery foi vaivém americano levou pela primeira vez um astronauta russo a bordo.
+Q:Que vaivém americano levou pela primeira vez um astronauta russo a bordo?
+A:o Discovery.
+
+F:Essen fica na Alemanha.
+Q:Em que país fica Essen?
+A:na Alemanha.
+
+F:Os Óscares entregam-se no Shrine Auditorium de Los Angeles.
+Q:Onde se entregam os Óscares?
+A:no Shrine Auditorium de Los Angeles.
+
+F:Os JO de 1992 celebraram-se em Barcelona.
+Q:Onde se celebraram os JO de 1992?
+A:em Barcelona.
+
+F:O buraco do ozono está sobre o continente americano.
+Q:Sobre que continente está o buraco do ozono?
+A:o continente americano.
+
+F:A camada de ozono está a uma altidude entre 10 e 50 quilómetros acima da superfície.
+Q:A que altitude está a camada de ozono?
+A:entre 10 e 50 quilómetros acima da superfície.
+
+F:O arquipélago de Svalbard fica na Noruega.
+Q:Onde fica o arquipélago de Svalbard?
+A:na Noruega.
+
+F:O Rio de Janeiro fica no Brasil.
+Q:Onde fica o Rio de Janeiro?
+A:no Brasil.
+
+F:A Conferência Mundial da Mulher realizou-se em Pequim.
+Q:Onde se realizou a Conferência Mundial da Mulher?
+A:em Pequim.
+
+F:Tarbes fica na França.
+Q:Onde fica Tarbes?
+A:em França.
+
+F:Explodiu uma carta-bomba em Madrid.
+Q:Em que cidade explodiu uma carta-bomba?
+A:em Madrid.
+
+F:Michelangelo Antonioni foi o realizador de cinema italiano premiado com um Óscar.
+Q:Que realizador de cinema italiano foi premiado com um Óscar?
+A:Michelangelo Antonioni.
+
+F:Michel Camdessus é o director-geral do Fundo Monetário Internacional.
+Q:Quem é o director-geral do Fundo Monetário Internacional?
+A:Michel Camdessus.
+
+F:Emilio Martínez Lázaro realizou o filme espanhol "Os piores anos da nossa vida".
+Q:Quem realizou o filme espanhol "Os piores anos da nossa vida"?
+A:Emilio Martínez Lázaro.
+
+F:Shimon Peres foi o chefe do 12º governo de Israel.
+Q:Quem foi o chefe do 12º governo de Israel?
+A:Shimon Peres.
+
+F:Paco Ignacio Taibo II escreveu "A bicicleta de Leonardo"?
+Q:Quem escreveu "A bicicleta de Leonardo"?
+A:Paco Ignacio Taibo II.
+
+F:Manuel Elkin Patarroyo recebeu o Prémio Príncipe das Astúrias de Investigação Cientifica e Tecnológica pelo desenvolvimento da primeira vacina sintética contra a malária.
+Q:Quem recebeu o Prémio Príncipe das Astúrias de Investigação Cientifica e Tecnológica pelo desenvolvimento da primeira vacina sintética contra a malária?
+A:Manuel Elkin Patarroyo.
+
+F:Diana Laura Riojas decidiu criar a bolsa "Luis Donaldo Colosio".
+Q:Quem decidiu criar a bolsa "Luis Donaldo Colosio"?
+A:Diana Laura Riojas.
+
+F:A rainha Sofia encerrou a 6ª Conferência Mediterrânica da Cruz Vermelha e do Crescente Vermelho.
+Q:Quem encerrou a 6ª Conferência Mediterrânica da Cruz Vermelha e do Crescente Vermelho?
+A:A rainha Sofia.
+
+F:O  rei João Carlos presidiu à reabertura do Museu Sefardita de Toledo.
+Q:Quem presidiu à reabertura do Museu Sefardita de Toledo?
+A:o rei João Carlos.
+
+F:Jordi Magem venceu o IV Torneio Internacional de Xadrez "Cidade de Pamplona".
+Q:Quem venceu o IV Torneio Internacional de Xadrez "Cidade de Pamplona"?
+A:Jordi Magem.
+
+F:A 20 de Maio de 1902 o primeiro presidente de Cuba assumiu o cargo.
+Q:Quando assumiu o cargo o primeiro presidente de Cuba?
+A:a 20 de Maio de 1902.
+
+F:o Iraque invadiu o Kuwait em 1990.
+Q:Em que ano é que o Iraque invadiu o Kuwait?
+A:1990.
+
+F:José Rizal foi executado a 30 de Dezembro de 1896.
+Q:Em que dia foi executado José Rizal?
+A:a 30 de Dezembro de 1896.
+
+F:A descoberta da América celebra-se a 12 de Outubro.
+Q:Em que dia se celebra a descoberta da América?
+A:a 12 de Outubro.
+
+F:1 de Janeiro de 2001 corresponde ao início do século XXI.
+Q:Que dia corresponde ao início do século XXI?
+A:1 de Janeiro de 2001.
+
+F:A Guerra do Chaco foi em 1932.
+Q:Quando foi a Guerra do Chaco?
+A:em 1932.
+
+F:A 9 de Junho de 1995 explodiu uma carta armadilhada.
+Q:Em que dia de Junho de 1995 é que explodiu uma carta armadilhada?
+A:9.
+
+F:Os manchu invadiram a China em 1644.
+Q:Quando é que os manchu invadiram a China?
+A:em 1644.
+
+F:O tratado da NAFTA entrou em vigor a 1 de Janeiro de 1994.
+Q:Quando entrou em vigor o tratado da NAFTA?
+A:a 1 de Janeiro de 1994.
+
+F:José Celestino Mutis fixou-se na Colômbia no final do século XVIII.
+Q:Quando é que se fixou na Colômbia José Celestino Mutis?
+A:no final do século XVIII.
+
+F:Arabella Kiesbauer é apresentadora no canal Pro7.
+Q:De que canal é apresentadora Arabella Kiesbauer?
+A:Pro 7.
+
+F:O Vaticano anunciou o estabelecimento de relações oficiais com a organização palestiniana Organização de Libertação da Palestina (OLP).
+Q:Com que organização palestiniana anunciou o Vaticano o estabelecimento de relações oficiais?
+A:Organização de Libertação da Palestina (OLP)
+
+F:O exército dos EUS ocupou o Haiti.
+Q:Que exército ocupou o Haiti?
+A:o dos EUA.
+
+F:Andrés Townsend Ezcurra fundou a instituição "Movimiento de Bases Hayistas".
+Q:Que instituição fundou Andrés Townsend Ezcurra? 
+A:o "Movimiento de Bases Hayistas".
+
+F:Congresso Nacional Africano (ANC) venceu as primeira eleições multiraciais na África do Sul.
+Q:Que partido venceu as primeira eleições multiraciais na África do Sul?
+A:o Congresso Nacional Africano (ANC).
+
+F:A Comissão dos Direitos Humanos da ONU condenou pela primeira vez formalmente o anti-semitismo e a xenofobia.
+Q:Que comissão internacional condenou pela primeira vez formalmente o anti-semitismo e a xenofobia?
+A:A Comissão dos Direitos Humanos da ONU
+
+F:A Igreja Anglicana aprovou novas regras para a ordenação de mulheres.
+Q:Que igreja aprovou novas regras para a ordenação de mulheres?
+A:a Igreja Anglicana.
+
+F:Brasil, Portugal, Angola, Moçambique, São Tomé e Príncipe, a Guiné-Bissau e Cabo Verde em Brasília constituiram a Comunidade dos Países de Língua Portuguesa.
+Q:Que instituição constituiram o Brasil, Portugal, Angola, Moçambique, São Tomé e Príncipe, a Guiné-Bissau e Cabo Verde em Brasília?
+A:A Comunidade dos Países de Língua Portuguesa.
+
+F:A NAFTA é o Tratado de Comércio Livre da América do Norte.
+Q:O que é a NAFTA?
+A:Tratado de Comércio Livre da América do Norte.
+
+F:O Mercosur é o o Mercado Comum do Sul.
+Q:O que é o Mercosur?
+A:o Mercado Comum do Sul.
+
+F:Rosa Chacel foi a escritora de Valhadolid.
+Q:Quem foi Rosa Chacel?
+A:escritora de Valhadolid.
+
+F:Arabella Kiesbauer é apresentadora da televisão privada alemã "Pro 7".
+Q:Quem é Arabella Kiesbauer?
+A:apresentadora da televisão privada alemã "Pro 7".
+
+F:Christo é um artista de origem húngara.
+Q:Quem é Christo?
+A:artista de origem húngara.
+
+F:Bill Clinton é o presidente dos Estados Unidos.
+Q:Quem é Bill Clinton?
+A:o presidente dos Estados Unidos.
+
+F:Leo Reting é um Engenheiro alemão.
+Q:Quem é Leo Reting?
+A:Engenheiro alemão.
+
+F:IFOP é um Instituto Financeiro para a Orientação da Pesca.
+Q:O que é o IFOP?
+A:Instituto Financeiro para a Orientação da Pesca.
+
+F:João Paulo II é o Papa.
+Q:Quem é João Paulo II?
+A:o Papa.
+
+F:O Parlamento Europeu é a assembleia comunitária.
+Q:O que é o Parlamento Europeu?
+A:a assembleia comunitária.
+
+F:Bill Clinton era presidente dos Estados Unidos em 1994.
+Q:Quem era presidente dos Estados Unidos em 1994?
+A:Bill Clinton.
+
+F:Na Somália foi prorrogada a operação das Nações Unidas até 31 de Março de 1995.
+Q:Em que país foi prorrogada a operação das Nações Unidas até 31 de Março de 1995?
+A:Na Somália.
+
+F:Kim Il Sung era o presidente da Coreia do Norte antes de 1994.
+Q:Quem era o presidente da Coreia do Norte antes de 1994?
+A:Kim Il Sung.
+
+F:Kim Jong Il era o presidente da Coreia do Norte depois de 1994.
+Q:Quem era o presidente da Coreia do Norte depois de 1994?
+A:Kim Jong Il.
+
+F:As empresas energéticas Maxus e Yacimientos Petrolíferos Fiscales fundiram-se durante 1995.
+Q:Que empresas energéticas se fundiram durante 1995?
+A:Maxus e Yacimientos Petrolíferos Fiscales.
+
+F:A Conferência Internacional da Mulher antes de 1995 celebrou-se em 1980.
+Q:Em que ano se celebrou a Conferência Internacional da Mulher antes de 1995?
+A:em 1980.
+
+F:Kenzaburo Oe ganhou o Prémio Nobel da Literatura em 1994.
+Q:Quem ganhou o Prémio Nobel da Literatura em 1994?
+A:Kenzaburo Oe.
+
+F:O Real Madrid venceu a liga de futebol espanhola na época 1994-1995.
+Q:Que equipa venceu a liga de futebol espanhola na época 1994-1995?
+A:o Real Madrid.
+
+F:Portugal comprou dois aviões CASA C-212-300 Aviocar em 1994.
+Q:Que país europeu comprou dois aviões CASA C-212-300 Aviocar em 1994?
+A:Portugal.
+
+F:No âmbito do IFOP no período 1994-1995 para a renovação da frota espanhola programou-se um valor de cerca de 1,1 biliões de ecus.
+Q:Que valor se programou no âmbito do IFOP no período 1994-1995 para a renovação da frota espanhola?
+A:Cerca de 1,1 biliões de ecus.
+
+F:A melhor maneira de combater as alergias é administrar, em quantidades mínimas, as substâncias que causariam ao paciente reacções alérgicas.
+Q:Qual a melhor maneira de combater as alergias?
+A:administrar, em quantidades mínimas, as substâncias que causariam ao paciente reacções alérgicas.
+
+F:A proporção de deutério característica de cada vinho determina-se com a ressonância magnética nuclear isotópica (RMN).
+Q:Como se determina a proporção de deutério característica de cada vinho?
+A:com a ressonância magnética nuclear isotópica (RMN).
+
+F:A cobrança de sanções garante-se pelo sistema de notificação de multas através de edictos.
+Q:Como se garante a cobrança de sanções?
+A:pelo sistema de notificação de multas através de edictos.
+
+F:Pretende-se levar a cabo o planeamento familiar no Peru mediante vasectomia e laqueação das trompas.
+Q:Como se pretende levar a cabo o planeamento familiar no Peru?
+A:Mediante vasectomia e laqueação das trompas.
+
+F:De acordo com o Método Hamer, o cancro começa através de um conflito emocional.
+Q:Como começa o cancro, de acordo com o Método Hamer?
+A:através de um conflito emocional.
+
+F:A angiografia com indocianina faz-se injectando intravenosamente uma substância que tinge os vaso.
+Q:Como que é que se faz a angiografia com indocianina?
+A:injectando intravenosamente uma substância que tinge os vaso.
+
+F:"Japan Premium" far-se-á desaparecer cancelando as dívidas por crédito malparado que os banco.
+Q:Como se fara desaparecer o "Japan Premium"?
+A:cancelando as dívidas por crédito malparado que os banco.
+
+F:As reacções de rejeição do sistema imunológico eliminam-se utilizando métodos de engenharia genética.
+Q:Como se eliminam as reacções de rejeição do sistema imunológico?
+A:utilizando métodos de engenharia genética.
+
+F:O método Hamer aplica-se excluindo qualquer medicamento ou terapia tradicional.
+Q:Como se aplica o método Hamer?
+A:excluindo qualquer medicamento ou terapia tradicional.
+
+F:A actuação da hormona de crescimentos envolve efeitos anabolizantes; aumenta a massa do corp.
+Q:Como actua a hormona do crescimento?
+A:envolve efeitos anabolizantes; aumenta a massa do corp.
+
+F:Alain Juppé é primeiro-ministro de França.
+Q:Quem é Alain Juppé?
+A:primeiro-ministro de França.
+
+F:Shoko Asahara é o líder da seita japonesa da Verdade Suprema.
+Q:Quem é Shoko Asahara?
+A:líder da seita japonesa da Verdade Suprema.
+
+F:Franz Schönhuber é o líder do Partido Republicano de extrema-direita.
+Q:Quem é Franz Schönhuber?
+A:líder do Partido Republicano de extrema-direita.
+
+F:Indiana fica nos Estados Unidos.
+Q:Onde fica Indiana?
+A:nos Estados Unidos.
+
+F:Bruce Morrison é o presidente do movimento "Americanos para uma nova agend.
+Q:Quem é Bruce Morrison?
+A:presidente do movimento "Americanos para uma nova agend.
+
+F:As FARC são as Forças Armadas Revolucionárias da Colômbia.
+Q:O que são as FARC?
+A:Forças Armadas Revolucionárias da Colômbia.
+
+F:Caltanissetta é na Sicília.
+Q:Onde é Caltanissetta?
+A:na Sicília.
+
+F:SPLA é a abreviatura do Exército Popular de Libertação do Sudão.
+Q:Qual a abreviatura do Exército Popular de Libertação do Sudão?
+A:SPLA.
+
+F:Caracas é a capital da Venezuela.
+Q:Qual é a capital da Venezuela?
+A:Caracas.
+
+F:ACNUR é o Alto-Comissariado das Nações Unidas para os Refugiados.
+Q:O que é o ACNUR?
+A:Alto-Comissariado das Nações Unidas para os Refugiados.
+
+F:Edmund Stoiber é o ministro-presidente bávaro.
+Q:Quem é o ministro-presidente bávaro?
+A:Edmund Stoiber.
+
+F:"War Powers Act" foi aprovado pelo Congresso americano em 1973.
+Q:Em que ano é que o "War Powers Act" foi aprovado pelo Congresso americano?
+A:1973.
+
+F:Esmirna fica na Turquia.
+Q:Esmirna fica em que país?
+A:Turquia.
+
+F:G. Rexrodt. é o ministro da Economia alemão.
+Q:Quem é o ministro da Economia alemão?
+A:G. Rexrodt.
+
+F:Christian Blanc é presidente da Air France.
+Q:De que companhia é Christian Blanc presidente?
+A:Air France.
+
+F:Tipaza localiza-se a 60 quilómetros a oeste de Argel.
+Q:Qual a localização de Tipaza?
+A:60 quilómetros a oeste de Argel.
+
+F:Bombaim tem mais de 12 milhões de habitantes.
+Q:Quantos habitantes tem Bombaim?
+A:mais de 12 milhões.
+
+F:Hans Blix é o director da AIEA.
+Q:Quem é o director da AIEA?
+A:Hans Blix.
+
+F:AIEA é a Agência Internacional de Energia Atómica.
+Q:O que é a AIEA?
+A:Agência Internacional de Energia Atómica.
+
+F:A sede da AIEA é em Viena.
+Q:Onde é a sede da AIEA?
+A:em Viena.
+
+F:148 milhões de pessoas vivem no Brasil.
+Q:Quantas pessoas vivem no Brasil?
+A:148 milhões.
+
+F:A Fonte de Trevi fica na ciadade italiana de Roma.
+Q:Em que cidade italiana fica a Fonte de Trevi?
+A:Roma.
+
+F:Berry Gordy é o fundador da Motown.
+Q:Quem é o fundador da Motown?
+A:Berry Gordy.
+
+F:O primeiro nome do líder turco Atatürk é Kemal
+Q:Qual o primeiro nome do líder turco Atatürk?
+A:Kemal.
+
+F:O Museu Van Gogh fica em Amesterdão.
+Q:Em que cidade fica o Museu Van Gogh?
+A:Amesterdão.
+
+F:A filha do líder chinês Deng Xiaoping chama-se Deng Rong.
+Q:Como se chama a filha do líder chinês Deng Xiaoping?
+A:Deng Rong.
+
+F:A GM é a fabricante de automóveis americano.
+Q:O que é a GM?
+A:fabricante de automóveis americano.
+
+F:O FSK é o serviço de contra-espionagem russo.
+Q:O que é o FSK?
+A:o serviço de contra-espionagem russo.
+
+F:Vukovar fica na Croácia.
+Q:Em que país fica Vukovar?
+A:Croácia.
+
+F:O Museu Warhol fica na cidade americana Pittsburgh.
+Q:Em que cidade americana se encontra o Museu Warhol?
+A:Pittsburgh.
+
+F:Andy Warhol é artista.
+Q:Quem é Andy Warhol?
+A:artista.
+
+F:Keith Richard é o guitarrista dos Rolling Stones.
+Q:Quem é Keith Richards?
+A:guitarrista dos Rolling Stones.
+
+F:Luc Montagnier descobriu o vírus da sida.
+Q:Quem descobriu o vírus da sida?
+A:Luc Montagnier.
+
+F:Yves Saint-Laurent é uma casa de alta-costura. 
+Q:O que é a Yves Saint-Laurent?
+A:casa de alta-costura.
+
+F:Angela Merkel é a ministra do Ambiente alemã.
+Q:Quem é a ministra do Ambiente alemã?
+A:Angela Merkel.
+
+F:Lennart Johansson é o presidente da UEFA.
+Q:Quem é o presidente da UEFA?
+A:Lennart Johansson.
+
+F:Bob Dole é o líder dos republicanos no Senado dos Estados Unidos.
+Q:Quem é o líder dos republicanos no Senado dos Estados Unidos?
+A:Bob Dole.
+
+F:Ted Turner foi o fundador da cadeia noticiosa CNN?
+Q:Quem foi o fundador da cadeia noticiosa CNN?
+A:Ted Turner.
+
+F:East London fica na África do Sul.
+Q:Em que país fica East London?
+A:África do Sul.
+
+F:A MTV é um canal televisivo de música.
+Q:O que é a MTV?
+A:canal televisivo de música.
+
+F:Em Julho de 1974 houve um golpe de estado em Chipre.
+Q:Quando é que houve um golpe de estado em Chipre?
+A:Julho de 1974.
+
+F:Alberto Giacometti nasceu em 1901.
+Q:Quando nasceu Alberto Giacometti?
+A:1901.
+
+F:O líder dos cipriotas turcos chama-se Rauf Denktash.
+Q:Como se chama o líder dos cipriotas turcos?
+A:Rauf Denktash.
+
+F:O filho do escritor e Prémio Nobel Thomas Mann chama-se Golo Mann.
+Q:Como se chama o filho do escritor e Prémio Nobel Thomas Mann?
+A:Golo Mann.
+
+F:Ali Salem é o presidente do Iémene do Sul.
+Q:Quem é o presidente do Iémene do Sul?
+A:Ali Salem.
+
+F:Mangosutho Buthelezi é o líder do KwaZulu.
+Q:Quem é o líder do KwaZulu?
+A:Mangosutho Buthelezi.
+
+F:Bernard Tapie foi presidente do clube de futebol francês Olympique de Marselha.
+Q:De que clube de futebol francês foi Bernard Tapie presidente?
+A:Olympique de Marselha.
+
+F:Andrew Morton é o autor de "Diana: a sua nova vida".
+Q:Quem é Andrew Morton?
+A:o autor de "Diana: a sua nova vida".
+
+F:A África do Sul conta 40 milhões de habitantes.
+Q:Quantos habitantes conta a África do Sul?
+A:40 milhões.
+
+F:A NASA é a agência espacial americana.
+Q:O que é a NASA?
+A:agência espacial americana.
+
+F:O arquitecto japonês Arata Isozaki planeou o Palácio dos Desportos São Jorge em Barcelona.
+Q:Quem planeou o Palácio dos Desportos São Jorge em Barcelona?
+A:o arquitecto japonês Arata Isozaki.
+
+F:A rainha da Dinamarca chama-se Margarida.
+Q:Como se chama a rainha da Dinamarca?
+A:Margarida.
+
+F:A mulher do presidente peruano Alberto Fujimori chama-se Susana Higuchi.
+Q:Como se chama a mulher do presidente peruano Alberto Fujimori?
+A:Susana Higuchi.
+
+F:Silver Star fica no Canadá.
+Q:Em que país fica Silver Star?
+A:Canadá.
+
+F:O primeiro-ministro do Ruanda chama-se Agathe Uwilingiyimana.
+Q:Como se chama o primeiro-ministro do Ruanda?
+A:Agathe Uwilingiyimana.
+
+F:Boris III é o rei da Bulgária.
+Q:Quem é o rei da Bulgária?
+A:Boris III.
+
+F:Shaquille O'Neill joga na equipa de básquete Orlando Magic.
+Q:Em que equipa de básquete joga Shaquille O'Neill?
+A:Orlando Magic.
+
+F:Nelson Mandela é o líder do ANC que se tornou presidente da África do Sul
+Q:Que líder do ANC se tornou presidente da África do Sul?
+A:Nelson Mandela.
+
+F:O presidente da Câmara dos Representantes americana é Newt Gingrich.
+Q:Quem é o presidente da Câmara dos Representantes americana?
+A:Newt Gingrich.
+
+F:Em 1973 foi assassinado o presidente chileno Salvador Allende.
+Q:Em que ano foi assassinado o presidente chileno Salvador Allende?
+A:1973.
+
+F:Marvin Minsky é um cientista na área da inteligência artificial.
+Q:Quem é Marvin Minsky?
+A:cientista na área da inteligência artificial.
+
+F:Nelson Mandela nasceu em 1918.
+Q:Em que ano nasceu Nelson Mandela?
+A:1918.
+
+F:A autobiografia de Nelson Mandela intitula-se "Longo Caminho para a Liberdade".
+Q:Como se intitula a autobiografia de Nelson Mandela?
+A:"Longo Caminho para a Liberdade".
+
+F:A viúva do falecido presidente de Moçambique, Samora Machel chama-se Graça Machel.
+Q:Como se chama a viúva do falecido presidente de Moçambique, Samora Machel?
+A:Graça Machel.
+
+F:A companhia Netscape Communications foi fundada em 1994.
+Q:Quando foi fundada a companhia Netscape Communications?
+A:em 1994.
+
+F:Juan António Samaranch é o presidente do Comité Olímpico Internacional.
+Q:Quem é Juan António Samaranch?
+A:presidente do Comité Olímpico Internacional.
+
+F:Em 1973 Pinochet chegou ao poder no Chile.
+Q:Quando é que Pinochet chegou ao poder no Chile?
+A:1973.
+
+F:O CERN é em Genebra.
+Q:Onde é o CERN?
+A:Genebra.
+
+F:Benjamim Netanyahu é o líder do partido Likud.
+Q:Quem é o líder do partido Likud?
+A:Benjamim Netanyahu.
+
+F:A Goldman Sachs é uma casa de corretagem de nomeada.
+Q:O que é a Goldman Sachs?
+A:casa de corretagem de nomeada.
+
+F:Colômbia tem uma província chamada Antioquia.
+Q:Que país tem uma província chamada Antioquia?
+A:Colômbia.
+
+F:P nome do presidente da Reserva Federal americana é Alan Greenspan.
+Q:Qual o nome do presidente da Reserva Federal americana?
+A:Alan Greenspan.
+
+F:David McTaggart foi um dos fundadores da Greenpeace.
+Q:Quem foi um dos fundadores da Greenpeace?
+A:David McTaggart.
+
+F:A NATO foi fundada em 1948.
+Q:Em que ano foi fundada a NATO?
+A:1948.
+
+F:Nick Leeson nasceu em Watford.
+Q:Onde nasceu Nick Leeson?
+A:Watford.
+
+F:João Havelange é o presidente da FIFA.
+Q:Quem é João Havelange?
+A:presidente da FIFA.
+
+F:O austral era a moeda da Argentina.
+Q:Qual era a moeda da Argentina?
+A:austral.
+
+F:A moeda do México é o peso.
+Q:Qual é a moeda do México?
+A:peso.
+
+F:A abreviatura OUA significa Organização de Unidade Africana.
+Q:O que significa a abreviatura OUA?
+A:Organização de Unidade Africana.
+
+F:O Hyde Park fica nos Estados Unidos.
+Q:Onde fica Hyde Park?
+A:nos Estados Unidos.
+
+F:Yigal Amir assassinou Yitzhak Rabin.
+Q:Quem assassinou Yitzhak Rabin?
+A:Yigal Amir.
+
+F:O nome próprio do financeiro Soros é George.
+Q:Qual o nome próprio do financeiro Soros?
+A:George.
+
+F:Ian Paisley é dirigente do Partido Democrático Unionista.
+Q:De que partido político é dirigente Ian Paisley?
+A:Partido Democrático Unionista.
+
+F:O primeiro-ministro russo Viktor Tchernomirdine tem 56 anos.
+Q:Que idade tem o primeiro-ministro russo Viktor Tchernomirdine?
+A:56.
+
+F:Yasser Arafat é o presidente da Autoridade Nacional Palestiniana.
+Q:Quem é o presidente da Autoridade Nacional Palestiniana?
+A:Yasser Arafat.
+
+F:Vladimir Zhirinovsky defendeu-se contra manifestantes em Estrasburgo atirando plantas e terra.
+Q:Como se defendeu Vladimir Zhirinovsky contra manifestantes em Estrasburgo?
+A:atirando plantas e terra.
+
+F:Ruben Acosta é o Presidente do México.
+Q:Quem é Ruben Acosta?
+A:Presidente do México.
+
+F:A abreviatura AWACS nos aviões AWACS significa Airborne Warning and Control System.
+Q:Que significa a abreviatura AWACS nos aviões AWACS?
+A:Airborne Warning and Control System.
+
+F:Michael Schumacher corre pela equipa da Benetton.
+Q:Por que equipa corre Michael Schumacher?
+A:Benetton.
+
+F:Renzo Piano foi o arquitecto do novo aeroporto da cidade japonesa de Osaca.
+Q:Qual foi o arquitecto do novo aeroporto da cidade japonesa de Osaca?
+A:Renzo Piano.
+
+F:A LTTE é a organização que luta pela libertação do Tamil Eelam.
+Q:Que organização luta pela libertação do Tamil Eelam?
+A:LTTE.
+
+F:O dióxido de carbono é o gás que contribui para o efeito de estufa.
+Q:Que gás contribui para o efeito de estufa?
+A:dióxido de carbono.
+
+F:Sabena é a companhia de aviação nacional belga.
+Q:Qual a companhia de aviação nacional belga?
+A:Sabena.
+
+F:Júpiter é o maior planeta do sistema solar.
+Q:Qual o maior planeta do sistema solar?
+A:Júpiter.
+
+F:MBA significa Master of Business Administration.
+Q:Que significa MBA?
+A:Master of Business Administration.
+
+F:Arthur Miller é o escritor que foi o último marido de Marilyn Monroe.
+Q:Que escritor foi o último marido de Marilyn Monroe?
+A:Arthur Miller.
+
+F:Microsoft é a maior companhia de software do mundo.
+Q:Qual a maior companhia de software do mundo?
+A:Microsoft.
+
+F:A MSNBC é um novo canal.
+Q:O que é a MSNBC?
+A:novo canal.
+
+F:Andrew Lack é o director noticioso do gigante televisivo americano NBC.
+Q:Quem é Andrew Lack?
+A:director noticioso do gigante televisivo americano NBC.
+
+F:a companhia química de Basileia Hoffmann-La Roche produz o o Invirase.
+Q:Quem produz o Invirase?
+A:a companhia química de Basileia Hoffmann-La Roche.
+
+F:IUPAC é a União Internacional de Química Pura e Aplicada.
+Q:O que é a IUPAC?
+A:União Internacional de Química Pura e Aplicada.
+
+F:Hugo Lacour está preso em Saarbrücken.
+Q:Onde está preso Hugo Lacour?
+A:em Saarbrücken.
+
+F:Prémio Artístico de Darmstadt tem um valor de 10.000 marcos alemães.
+Q:Qual o valor do Prémio Artístico de Darmstadt?
+A:10.000 marcos alemães.
+
+F:Marie-Jo Lafontaine nasceu em 1950.
+Q:Quando nasceu Marie-Jo Lafontaine?
+A:1950.
+
+F:Marie-Jo Lafontaine nasceu em Antuérpia.
+Q:Onde nasceu Marie-Jo Lafontaine?
+A:em Antuérpia.
+
+F:A documenta tem lugar em Kassel.
+Q:Onde tem lugar a documenta?
+A:em Kassel.
+
+F:A ALDI é uma cadeia de supermercados.
+Q:O que é a ALDI?
+A:uma cadeia de supermercados.
+
+F:O presidente da associação de comércio do Hesse chama-se Heinz Rautenberg.
+Q:Como se chama o presidente da associação de comércio do Hesse?
+A:Heinz Rautenberg.
+
+F:Existem 56.000 empresas artesanais no Hesse.
+Q:Quantas empresas artesanais existem no Hesse?
+A:56.000.
+
+F:A MSN tem 600000 assinantes.
+Q:Quantos assinantes tem a MSN?
+A:600000.
+
+F:A Microsoft licenciar vai licenciar o produto da Sun linguagem de programação Java.
+Q:Que produto da Sun vai a Microsoft licenciar?
+A:a linguagem de programação Java.
+
+F:Butzbach tornou-se uma cidade de guarnição em 1818.
+Q:Quando se tornou Butzbach uma cidade de guarnição?
+A:1818.
+
+F:Dieter Wolf é o director dos arquivos municipais de Butzbach.
+Q:Quem é o director dos arquivos municipais de Butzbach?
+A:Dieter Wolf.
+
+F:O cardeal Raymund Peraudi visitou Butzbach em Outubro de 1502.
+Q:Quando é que o cardeal Raymund Peraudi visitou Butzbach?
+A:em Outubro de 1502.
+
+F:A sede do Instituto Monetário Europeu é em Francoforte.
+Q:Onde é a sede do Instituto Monetário Europeu?
+A:Francoforte.
+
+F:Marvin Minsky é o pioneiro da Inteligência Artificial.
+Q:Quem é Marvin Minsky?
+A:pioneiro da Inteligência Artificial.
+
+F:Os FTP eram a organização guerrilheira comunista.
+Q:O que eram os FTP?
+A:organização guerrilheira comunista.
+
+F:A IBM pagou pelo Lotus 3,5 mil milhões de dólares.
+Q:Quanto pagou a IBM pelo Lotus?
+A:3,5 mil milhões de dólares.
+
+F:IBM tem a sua sede em Armonk.
+Q:Que empresa tem a sua sede em Armonk?
+A:IBM.
+
+F:Hugo Lacour foi preso em Novembro de 1993.
+Q:Quando foi preso Hugo Lacour?
+A:Novembro de 1993.
+
+F:A Saab chamou 42.000 veículos de volta à fábrica.
+Q:Que chamou a Saab de volta à fábrica?
+A:42.000 veículos.
+
+F:A Saab Automobiles pertence ao grupo sueco AB Investor e ao grupo automóvel american.
+Q:A quem pertence a Saab Automobiles?
+A:ao grupo sueco AB Investor e ao grupo automóvel american.
+
+F:A UNICE é a União das Confederações Industriais e Patronais da Europa.
+Q:O que é a UNICE?
+A:União das Confederações Industriais e Patronais da Europa.
+
+F:Francois Perigot é o presidente da UNICE.
+Q:Quem é o presidente da UNICE?
+A:Francois Perigot.
+
+F:Volkmar Deile é o secretário-geral da secção alemã da Amnistia Internacional.
+Q:Quem é o secretário-geral da secção alemã da Amnistia Internacional?
+A:Volkmar Deile.
+
+F:Haider forçado a demitir-se de governador da Caríntia em 1991.
+Q:Quem foi forçado a demitir-se de governador da Caríntia em 1991?
+A:Haider.
+
+F:A Dreamworks SKG foi fundada em 1994.
+Q:Quando foi fundada a Dreamworks SKG?
+A:1994.
+
+F:O realizador Steven Spielberg a Dreamworks SKG.
+Q:Quem fundou a Dreamworks SKG?
+A:o realizador Steven Spielberg.
+
+F:O maior produto de software do mundo, a Microsoft, investirá na Dreamworks SKG.
+Q:Que companhia investirá na Dreamworks SKG?
+A:o maior produto de software do mundo, a Microsoft.
+
+F:Christoph Ransmayr é um escritor da Alta Áustria.
+Q:Quem é Christoph Ransmayr?
+A:escritor da Alta Áustria.
+
+F:Christoph Ransmayr recebeu o prémio Kafka da Literatura em 1995.
+Q:Quem recebeu o prémio Kafka da Literatura em 1995?
+A:Christoph Ransmayr.
+
+F:Jorma Ollila é o presidente da Nokia.
+Q:Quem é Jorma Ollila?
+A:presidente da Nokia.
+
+F:O presidente da Nokia é Jorma Ollila.
+Q:Quem é o presidente da Nokia?
+A:Jorma Ollila.
+
+F:O grupo finlandês de electrónica e telecomunicações Nokia é a maior empresa industrial da Finlândia.
+Q:Qual é a maior empresa industrial da Finlândia?
+A:o grupo finlandês de electrónica e telecomunicações Nokia.
+
+F:O lucro do grupo electrónico e de telecomunicações finlandês Nokia em 1994 foi de Quatro milhões de markkas.
+Q:Qual o lucro do grupo electrónico e de telecomunicações finlandês Nokia em 1994?
+A:Quatro milhões de markkas.
+
+F:A IBM lançou o primeiro PC em 1981.
+Q:Quando é que a IBM lançou o primeiro PC?
+A:1981.
+
+F:A Hewlett-Packard (HP) foi fundada em Palo Alto.
+Q:Onde foi fundada a Hewlett-Packard (HP)?
+A:em Palo Alto.
+
+F:No final de 1994 o grupo HP tinha 98400 empregados.
+Q:Quantos empregados tinha o grupo HP no final de 1994?
+A:98400.
+
+F:A HP faz um terço do volume de negócios do grupo na Europa.
+Q:Que proporção do seu volume de negócios faz a HP na Europa?
+A:um terço do volume de negócios do grupo.
+
+F:O castelo Esterhazy é em Eisenstadt.
+Q:Onde é o castelo Esterhazy?
+A:em Eisenstadt.
+
+F:O CERN é o Laboratório Europeu de Física de Partículas.
+Q:O que é o CERN?
+A:o Laboratório Europeu de Física de Partículas.
+
+F:A sede do CERN é em Genebra.
+Q:Onde é a sede do CERN?
+A:em Genebra.
+
+F:O CERN tem 19 estados-membros.
+Q:Quantos estados-membros tem o CERN?
+A:19.
+
+F:O super-hacker americano Kevin Mitnick conseguiu roubar 20.000 números penetrando nos computadores da companhia nova-iorquina Netcom.
+Q:Quem conseguiu roubar 20.000 números penetrando nos computadores da companhia nova-iorquina Netcom?
+A:O super-hacker americano Kevin Mitnick.
+
+F:Kevin Mitnick é um super-hacker americano.
+Q:Quem é Kevin Mitnick?
+A:super-hacker americano.
+
+F:A sede da Lindt & Sprüngli é Kilchberg.
+Q:Onde é a sede da Lindt & Sprüngli?
+A:Kilchberg.
+
+F:O CERN foi criado a 29 de Setembro de 1954.
+Q:Quando foi criado o CERN?
+A:29 de Setembro de 1954.
+
+F:Llewellyn Smith é o director do CERN.
+Q:Quem é o director do CERN?
+A:Llewellyn Smith.
+
+F:Cerca de 9000 físicos, cientistas e funcionário trabalham no CERN.
+Q:Quantas pessoas trabalham no CERN?
+A:cerca de 9000 físicos, cientistas e funcionário.
+
+F:Saarbrücken é a capital estadual do Sarre.
+Q:Qual é a capital estadual do Sarre?
+A:Saarbrücken.
+
+F:A Eslovénia tem dois milhões de habitantes.
+Q:Quantos habitantes tem a Eslovénia?
+A:dois milhões.
+
+F:Peter Tulviste é o vice-reitor da Universidade de Tartu.
+Q:Quem é Peter Tulviste?
+A:vice-reitor da Universidade de Tartu.
+
+F:Os tanques do exército jugoslav entraram na Eslovénia a 27 de Junho de 1991.
+Q:Quando entraram os tanques do exército jugoslavo na Eslovénia?
+A:a 27 de Junho de 1991.
+
+F:A Studer Revox AG vendeu a firma Motor Columbus AG (MC).
+Q:Que firma vendeu a Studer Revox AG?
+A:Motor Columbus AG (MC).
+
+F:A Studer Revox AG foi comprada por Harman International Industries, Inc.
+Q:Por quem foi comprada a Studer Revox AG?
+A:Harman International Industries, Inc.
+
+F:A Studer Revox foi fundada em 1948.
+Q:Quando foi fundada a Studer Revox?
+A:1948.
+
+F:A sede da Harman International Industries, Inc é em Washington D.C..
+Q:Onde é a sede da Harman International Industries, Inc?
+A:Washington D.C..
+
+F:A moeda da Geórgia chama-se Lari.
+Q:Como se chama a moeda da Geórgia?
+A:Lari.
+
+F:Nodar Dschawachischwili é o chefe do Banco Central da Geórgia.
+Q:Quem é Nodar Dschawachischwili?
+A:chefe do Banco Central da Geórgia.
+
+F:A HP o seu volume de negócios em 1994 na área de a mais recente geração de impressoras a laser.
+Q:Em que área aumentou a HP o seu volume de negócios em 1994?
+A:a mais recente geração de impressoras a laser.
+
+F:Thomas Klante é o porta-voz da Rheinisch-Westfälischen Elektrizitätswerke (RWE).
+Q:Quem é Thomas Klante?
+A:porta-voz da Rheinisch-Westfälischen Elektrizitätswerke (RWE).
+
+F:Os Resíduos nucleares altamente radioactivos serão tratadas na instalação de tratamento definitivo Konrad.
+Q:Que substâncias serão tratadas na instalação de tratamento definitivo Konrad?
+A:Resíduos nucleares altamente radioactivos.
+
+F:Mayr-Melnhof é o produtor de cartão austríaco.
+Q:O que é Mayr-Melnhof?
+A:produtor de cartão austríaco.
+
+F:Weimar será a capital cultural da Europa em 1999.
+Q:Quando será Weimar capital cultural da Europa?
+A:1999.
+
+F:Götz Friedrich é o director artistico da Deutsche Oper de Berlim.
+Q:Quem é Götz Friedrich?
+A:director artistico da Deutsche Oper de Berlim.
+
+F:O Chaos Computer Club (CCC) é proveniente de Hamburgo.
+Q:Qual a proveniência do Chaos Computer Club (CCC)?
+A:Hamburgo.
+
+F:O BMFT é o Ministério Federal para a Investigação e Tecnologia.
+Q:O que é o BMFT?
+A:Ministério Federal para a Investigação e Tecnologia.
+
+F:A norma europeia para comunicações móveis chama-se GSM.
+Q:Como se chama a norma europeia para comunicações móveis?
+A:GSM.
+
+F:A Ericsson é a empresa electrónica sueca. 
+Q:O que é a Ericsson?
+A:empresa electrónica sueca.
+
+F:O ETSI é o Instituto Europeu de Normalização das Telecomunicações.
+Q:O que é o ETSI?
+A:Instituto Europeu de Normalização das Telecomunicações.
+
+F:O carro compacto Smart é produzido pela companhia MCC Micro Compact Car.
+Q:Quem produz o carro compacto Smart?
+A:a companhia MCC Micro Compact Car.
+
+F:O carro compacto Smart aparecerá no mercado em 1998.
+Q:Quando aparecerá no mercado o carro compacto Smart?
+A:1998.
+
+F:A MCC Micro Compact Car será fundada conjuntamente pela Mercedes e pela SMH.
+Q:Que empresa será fundada conjuntamente pela Mercedes e pela SMH?
+A:MCC Micro Compact Car.
+
+F:O Micro Compact Car (MCC) é uma joint venture da Mercedes e da SMH para a produção e marketin.
+Q:O que é Micro Compact Car (MCC)?
+A:joint venture da Mercedes e da SMH para a produção e marketin.
+
+F:A empresa Victorinox produz canivetes.
+Q:Que produz a empresa Victorinox?
+A:canivetes.
+
+F:A MCC produz o automóvel Micro Compact Car.
+Q:Que produz a MCC?
+A:o automóvel Micro Compact Car.
+
+F:O Ubilab está representado com o seu próprio endereço na Internete.
+Q:Onde é que o Ubilab está representado com o seu próprio endereço?
+A:na Internet.
+
+F:O Evereste é o monte mais alto do mundo.
+Q:Qual o monte mais alto do mundo?
+A:Evereste.
+
+F:A montanha mais alta do Japão chama-se Fujiyama.
+Q:Como se chama a montanha mais alta do Japão?
+A:Fujiyama.
+
+F:A Torre Eiffel é o símbolo mais importante de Paris.
+Q:Qual o símbolo mais importante de Paris?
+A:a Torre Eiffel.
+
+F:Um terramoto danificou seriamente o Coliseu em 851.
+Q:Que danificou seriamente o Coliseu em 851?
+A:um terramoto.
+
+F:A lutas de gladiadores foi proibida no Coliseu em 438.
+Q:Que foi proibido no Coliseu em 438?
+A:lutas de gladiadores.
+
+F:O Internet Explorer da Microsoft não custará nada.
+Q:Quanto custará o Internet Explorer da Microsoft?
+A:nada.
+
+F:Morreram 232 pessoa de malária no Rajasthan.
+Q:De que morreram 232 pessoa no Rajasthan?
+A:malária.
+
+F:A AlbÂnia surgiu na epidemia de cólera.
+Q:Que epidemia atingiu a Albânia?
+A:cólera.
+
+F:As barras de chocolate "Milka" são produzidas na Alemanha.
+Q:Onde são produzidas as barras de chocolate "Milka"?
+A:na Alemanha.
+
+F:O maior parque de energia eólica do Hesse foi montado em Seibertenrod em Vogelsberg.
+Q:Que foi montado em Seibertenrod em Vogelsberg?
+A:o maior parque de energia eólica do Hesse.
+
+F:Klaus-Dieter Hoffmann, de 40 anos, foi nomeado presidente do grupo das Máquinas Fotográficas Leica.
+Q:Quem foi nomeado presidente do grupo das Máquinas Fotográficas Leica?
+A:Klaus-Dieter Hoffmann, de 40 anos.
+
+F:O grupo tecnológico Leica produz microscópios, equipamento de observação [de campo], e sensore.
+Q:Que produz o grupo tecnológico Leica?
+A:microscópios, equipamento de observação [de campo], e sensore.
+
+F:A Oracle vende bases de dados.
+Q:Que vende a Oracle?
+A:bases de dados.
+
+F:Ocorreram 22 feridos ligeiros no Empire State Building por causa de um incêndio.
+Q:Como ocorreram 22 feridos ligeiros no Empire State Building?
+A:por causa de um incêndio.
+
+F:O museu Guggenheim em Bilbau será inaugurado em 1997.
+Q:Quando será inaugurado o museu Guggenheim em Bilbau?
+A:1997.
+
+F:Frank Gehry é o arquitecto do museu Guggenheim em Bilbau.
+Q:Quem é o arquitecto do museu Guggenheim em Bilbau?
+A:Frank Gehry.
+
+F:Frank Gerry está a contruir em Bilbau uma filial do Guggenheim.
+Q:O que está Frank Gerry a construir em Bilbau?
+A:uma filial do Guggenheim.
+
+F:O fabricante de móveis Vitra gere um museu em Weil am Rhein.
+Q:Que fabricante de móveis gere um museu em Weil am Rhein?
+A:Vitra.
+
+F:No Museu do Design Vitra são exibidos mais de 1200 cadeiras e outros móveis dos tempos modernos.
+Q:Que é exibido no Museu do Design Vitra?
+A:mais de 1200 cadeiras e outros móveis dos tempos modernos.
+
+F:Alberto Fujimori é o presidente do Peru.
+Q:Quem é Alberto Fujimori?
+A:presidente do Peru.
+
+F:A OMC é a Organização Mundial do Comércio.
+Q:O que é a OMC?
+A:Organização Mundial do Comércio.
+
+F:O ministro do Interior senegalês chama-se Djibo Ka.
+Q:Como se chama o ministro do Interior senegalês?
+A:Djibo Ka.
+
+F:Halifax fica no Canadá.
+Q:Onde fica Halifax?
+A:Canadá.
+
+F:Boris Fiodorov é o ministro das finanças russo.
+Q:Quem é o ministro das finanças russo?
+A:Boris Fiodorov.
+
+F:A 25 de Julho ocorreu o atentado na estação de metro de Saint-Michel em Paris.
+Q:Quando ocorreu o atentado na estação de metro de Saint-Michel em Paris?
+A:25 de Julho.
+
+F:Umberto Bossi é o líder da Liga Norte.
+Q:Quem é Umberto Bossi?
+A:líder da Liga Norte.
+
+F:O La Scala fica em Milão.
+Q:Onde fica o La Scala?
+A:Milão.
+
+F:A vaga de calor na Índia provocou 100 vítimas.
+Q:Quantas vítimas provocou a vaga de calor na Índia?
+A:100.
+
+F:A Ordem do Templo Solar é uma seita.
+Q:O que é a Ordem do Templo Solar?
+A:seita.
+
+F:Lenine morreu a 21 de Janeiro de 1924.
+Q:Quando morreu Lenine?
+A:21 de Janeiro de 1924.
+
+F:Em 1979 ocorreu a revolução islâmica no Irão.
+Q:Quando ocorreu a revolução islâmica no Irão?
+A:1979.
+
+F:O ferry que naufragou na Suécia em 1994 chamava-se Estonia.
+Q:Como se chamava o ferry que naufragou na Suécia em 1994?
+A:Estonia.
+
+F:Aum cometeu o atentado no metro de Tóquio.
+Q:Quem cometeu o atentado no metro de Tóquio?
+A:Aum.
+
+F:A Conferência Mundial do Clima de 1995 teve lugar em Berlim.
+Q:Onde teve lugar a Conferência Mundial do Clima de 1995?
+A:Berlim.
+
+F:A sede da UNESCO fica em Paris.
+Q:Onde fica a sede da UNESCO?
+A:Paris.
+
+F:A 28 de Abril a Áustria aderiu a Schengen.
+Q:Quando aderiu a Áustria a Schengen?
+A:28 de Abril.
+
+F:O partido de Silvio Berlusconi chama-se Forza Italia.
+Q:Como se chama o partido de Silvio Berlusconi?
+A:Forza Italia.
+
+F:Há 90 milhões de católicos há em África.
+Q:Quantos católicos há em África?
+A:90 milhões.
+
+F:Philippe Biberson é presidente dos Médicos sem Fronteiras.
+Q:Quem é Philippe Biberson?
+A:presidente dos Médicos sem Fronteiras.
+
+F:A Eurotunnel é uma empresa de transportes.
+Q:O que é a Eurotunnel?
+A:empresa de transportes.
+
+F:O ataque a Pearl Harbor foi a 7 de Dezembro de 1941.
+Q:Quando foi o ataque a Pearl Harbor?
+A:7 de Dezembro de 1941.
+
+F:Luc Besson é o realizador de "Nikita".
+Q:Quem é o realizador de "Nikita"?
+A:Luc Besson.
+
+F:A rainha dos Países-Baixos chama-se Beatriz.
+Q:Como se chama a rainha dos Países-Baixos?
+A:Beatriz.
+
+F:Montxo Armendariz é um cineasta espanhol.
+Q:Quem é Montxo Armendariz?
+A:cineasta espanhol.
+
+F:Emir Kusturica conquistou a Palma de Ouro em Cannes em 1995.
+Q:Quem conquistou a Palma de Ouro em Cannes em 1995?
+A:Emir Kusturica.
+
+F:Paul Feyerabend é um epistemólogo austríaco.
+Q:Quem é Paul Feyerabend?
+A:epistemólogo austríaco.
+
+F:O Iraque tem 18,5 milhões de habitantes.
+Q:Quantos habitantes tem o Iraque?
+A:18,5 milhões.
+
+F:São necessários 8 anos de residência para obter a nacionalidade suíça.
+Q:Quantos anos de residência são necessários para obter a nacionalidade suíça?
+A:8.
+
+F:Butros Butros-Ghali é secretário-geral das Nações Unidas.
+Q:Quem é Butros Butros-Ghali ?
+A:secretário-geral das Nações Unidas.
+
+F:O IRA é o Exército Republicano Irlandês.
+Q:O que é o IRA?
+A:Exército Republicano Irlandês.
+
+F:O Concurso Chopin realiza-se na Varsóvia.
+Q:Onde se realiza o Concurso Chopin?
+A:Varsóvia.
+
+F:O GIA é o Grupo Islâmico Armado.
+Q:O que é o GIA?
+A:Grupo Islâmico Armado.
+
+F:O presidente do Burundi chama-se Sylvestre Ntibantunganya.
+Q:Como se chama o presidente do Burundi?
+A:Sylvestre Ntibantunganya.
+
+F:A 8 de Maio teve lugar a primeira volta das eleições legislativas na Hungria em 1994.
+Q:Quando teve lugar a primeira volta das eleições legislativas na Hungria em 1994?
+A:8 de Maio
+
+F:Redha Malek em 1994 tinha o cargo de primeiro-ministro argelino.
+Q:Qual o cargo de Redha Malek em 1994?
+A:primeiro-ministro argelino.
+
+F:Na segunda-feira, 14 de Março, foi apresentado o plano de reestruturação da Euro-Disney?
+Q:Em que dia foi apresentado o plano de reestruturação da Euro-Disney?
+A:segunda-feira, 14 de Março.
+
+F:A nona edição da Videoformes teve lugar em Clermont-Ferrand.
+Q:Onde teve lugar a nona edição da Videoformes?
+A:Clermont-Ferrand.
+
+F:Stéphan Phinera foi eleito presidente do Conselho Geral da Guiana.
+Q:Quem foi eleito presidente do Conselho Geral da Guiana?
+A:Stéphan Phinera.
+
+F:Iegor Gaidar é primeiro ministro da Rússia.
+Q:De que país é Iegor Gaidar primeiro ministro?
+A:Rússia.
+
+F:O primeiro-ministro ucraniano nomeado em Junho de 1994 chama-se Vitali Massol.
+Q:Qual o nome do primeiro-ministro ucraniano nomeado em Junho de 1994?
+A:Vitali Massol.
+
+F:A 28 de Abril os cannabis foram despenalizados na Alemanha.
+Q:Quando foram os cannabis despenalizados na Alemanha?
+A:28 de Abril.
+Q:De que grupo político é Charles Millon presidente?
+A:UDF.
+Q:Quem é o novo presidente do Ruanda?
+A:Pasteur Bizimungu.
+Q:Onde teve lugar a Conferência Internacional sobre a População e Desenvolvimento?
+A:</question>.
+<answer n="1" docid="">	Q:Quando decorreu o 48º festival de Avignon?
+A:de 8 de Julho a 2 de Agosto.
+
+F:Lomé é a capital do Togo.
+Q:Qual a capital do Togo?
+A:Lomé.
+
+F:FC Sevilha de Diego Maradona exige 8 milhões de francos.
+Q:Que quantia exige o FC Sevilha de Diego Maradona?
+A:8 milhões de francos.
+
+F:O ministro das Finanças polaco chama-se Marek Borowski.
+Q:Como se chama o ministro das Finanças polaco?
+A:Marek Borowski.
+
+F:Kishinev fica na Moldávia.
+Q:Onde fica Kishinev?
+A:Moldávia.
+
+F:Os Emirados Árabes Unidos tem 2,2 milhões de habitantes.
+Q:Quantos habitantes tem os Emirados Árabes Unidos?
+A:2,2 milhões.
+
+F:Jacques Santer é o presidente da Comissão Europeia em 1995.
+Q:Quem é o presidente da Comissão Europeia em 1995?
+A:Jacques Santer.
+
+F:Juvénal Habyarimana morreu assassinado.
+Q:Como morreu Juvénal Habyarimana?
+A:assassinado.
+
+F:A sigla EAU significa Emirados Árabes Unidos.
+Q:Que significa a sigla EAU?
+A:Emirados Árabes Unidos.
+
+F:Gyula Horn venceu as eleições legislativas húngaras.
+Q:Quem venceu as eleições legislativas húngaras?
+A:Gyula Horn.
+
+F:Andrei Medveded venceu o Torneio de Monte-Carlo.
+Q:Que torneio Andrei Medveded venceu?
+A:o Torneio de Monte-Carlo.
+
+F:Sergi Bruguera foi derrotado por Andrei Medveded na final do Torneio de Monte-Carlo.
+Q:Quem foi derrotado por Andrei Medveded na final do Torneio de Monte-Carlo?
+A:Sergi Bruguera.
+
+F:O tenista Sergi Bruguera tem nacionalidade espanhol.
+Q:Qual a nacionalidade do tenista Sergi Bruguera?
+A:espanhol.
+
+F:Markus Wasmeier venceu o slalom super-gigante em Lillehammer.
+Q:Quem venceu o slalom super-gigante em Lillehammer?
+A:Markus Wasmeier.
+
+F:Claude Lévi-Strauss nasceu a 28 de Novembro de 1908.
+Q:Qual a data de nascimento de Claude Lévi-Strauss?
+A:28 de Novembro de 1908.
+
+F:Aleksandr Vassilievich Korjakov nasceu em Moscovo.
+Q:Onde nasceu Aleksandr Vassilievich Korjakov?
+A:em Moscovo.
+
+F:O único diário independente da Jugoslávia chama-se Borba.
+Q:Como se chama o único diário independente da Jugoslávia?
+A:Borba.
+
+F:Tizi-Ouzou é a capital da província da Cabília.
+Q:Qual é a capital da província da Cabília?
+A:Tizi-Ouzou.
+
+F:Cabul é a capital do Afeganistão.
+Q:De que país é Cabul a capital?
+A:Afeganistão.
+
+F:A esperança de vida em França em 1991 era 77,7 anos.
+Q:Qual a esperança de vida em França em 1991?
+A:77,7 anos.
+
+F:A República da Chechénia tem uma superfície de 13.000 quilómetros quadrados.
+Q:Qual a superfície da República da Chechénia?
+A:13.000 quilómetros quadrados.
+
+F:A República da Chechénia tem 1,2 milhões de habitantes.
+Q:Quantos habitantes tem a República da Chechénia?
+A:1,2 milhões.
+
+F:A sétima cimeira da Organização da Conferência Islâmica ocorreu na Casablanca.
+Q:Onde decorreu a sétima cimeira da Organização da Conferência Islâmica?
+A:Casablanca.
+
+F:Pierre-Paul Schweitzer era director-geral do Fundo Monetário Internacional.
+Q:De que organização Pierre-Paul Schweitzer era director-geral?
+A:Fundo Monetário Internacional.
+
+F:O País de Gales venceu o torneio das Cinco Nações em 1994.
+Q:Quem venceu o torneio das Cinco Nações em 1994?
+A:País de Gales.
+
+F:A inauguração oficial do Túnel da Mancha foi a 6 de Maio.
+Q:Quando foi a inauguração oficial do Túnel da Mancha?
+A:6 de Maio.
+
+F:Isabel II de Inglaterra inaugurou com François Mitterrand o Túnel sob a Mancha.
+Q:Que personalidade inaugurou com François Mitterrand o Túnel sob a Mancha?
+A:Isabel II de Inglaterra.
+
+F:Lesoto fica na África do Sul.
+Q:Onde fica o Lesoto?
+A:África do Sul.
+
+F:O Salão Internacional da Aeronáutica decorreu em Farnborough.
+Q:Onde decorreu o Salão Internacional da Aeronáutica?
+A:Farnborough.
+
+F:Lesoto tem 1,6 milhões de habitantes.
+Q:Quantos habitantes tem o Lesoto?
+A:1,6 milhões.
+
+F:Basotho Congress Party (BCP) é o nome do partido político de Ntsu Mokhele, primeiro-ministro do Lesoto.
+Q:Qual o nome do partido político de Ntsu Mokhele, primeiro-ministro do Lesoto?
+A:Basotho Congress Party (BCP)
+
+F:Foram apresentados quase trezentos filmes no Festival de Cinema Mundial de Montreal.
+Q:Quantos filmes foram apresentados no Festival de Cinema Mundial de Montreal?
+A:quase trezentos.
+
+F:O filme Canción de Cuna recebeu o Grande Prémio especial do júri no Festival de Cinema Mundial de Montreal.
+Q:Que filme recebeu o Grande Prémio especial do júri no Festival de Cinema Mundial de Montreal?
+A:Canción de Cuna
+
+F:Jose Luis Garci realizou "Canción de Cuna".
+Q:Quem realizou "Canción de Cuna"?
+A:Jose Luis Garci.
+
+F:Alan Rickman recebeu o prémio de interpretação masculina no Festival de Cinema de Montreal.
+Q:Que actor recebeu o prémio de interpretação masculina no Festival de Cinema de Montreal?
+A:Alan Rickman
+
+F:O nome do primeiro-ministro do Ruada é Faustin Twagiramungu.
+Q:Qual o nome do primeiro-ministro do Ruanda?
+A:Faustin Twagiramungu.
+
+F:A escritora Taslima Nasreen é de Bangladesh.
+Q:De que país é a escritora Taslima Nasreen?
+A:Bangladesh.
+
+F:Miguel da Roménia foi o último rei da Roménia.
+Q:Quem foi o último rei da Roménia?
+A:Miguel da Roménia.
+
+F:Babacar Seye foi morto a 15 de Maio de 1993.
+Q:Quando foi morto Babacar Seye?
+A:15 de Maio de 1993.
+
+F:O Albert Reynolds na Irlanda ocupa o cargo que primeiro ministro.
+Q:Qual o cargo de Albert Reynolds na Irlanda?
+A:primeiro-ministro.
+
+F:A companhia Air France prevê suprimir em 1995 1.560 postos de trabalho.
+Q:Quantos postos de trabalho prevê a companhia Air France suprimir em 1995?
+A:1.560.
+
+F:Após a tomada de reféns em Argel o Airbus da Air France aterrou no aeroporto de Marselha-Marignane.
+Q:Onde aterrou o Airbus da Air France após a tomada de reféns em Argel?
+A:aeroporto de Marselha-Marignane.
+
+F:O grupo Warburg tem 4.472 pessoas.
+Q:Quantos empregados tem o grupo Warburg?
+A:4.472 pessoas.
+
+F:Federico Fellini e Giuleta Masina casaram-se a 30 de Outubro de 1943.
+Q:Quando se casaram Federico Fellini e Giuleta Masina?
+A:30 de Outubro de 1943.
+
+F:Danny Barker é guitarrista.
+Q:Qual a profissão de Danny Barker?
+A:guitarrista.
+
+F:Os Estados Unidos no final de 1994 tinham uma taxa de desemprego de menos de 6%.
+Q:Qual a taxa de desemprego nos Estados Unidos no final de 1994?
+A:menos de 6%.
+
+F:Gaumont é a companhia cinematográfica mais antiga do mundo.
+Q:Qual a companhia cinematográfica mais antiga do mundo?
+A:Gaumont.
+
+F:Flavio Briatore é director da escuderia Benetton.
+Q:De que escuderia é director Flavio Briatore?
+A:Benetton.
+
+F:As eleições europeias de 1994 tiveram lugar a 12 de Junho.
+Q:Quando tiveram lugar as eleições europeias de 1994?
+A:12 de Junho.
+
+F:A língua oficial da República do Iémene é o árabe.
+Q:Qual a língua oficial da República do Iémene?
+A:árabe.
+
+F:Fernando Rey morreu com setenta e sete anos.
+Q:Com que idade morreu Fernando Rey?
+A:setenta e sete anos.
+
+F:Jack Unterweger morreu por se enforcar.
+Q:Como morreu Jack Unterweger?
+A:enforcou-se.
+
+F:Luxor fica no Alto Egipto.
+Q:Onde fica Luxor?
+A:Alto Egipto.
+
+F:Desde 1990 que está em vigor o embargo ao Iraque.
+Q:Desde quando está em vigor o embargo ao Iraque?
+A:1990.
+
+F:A alcunha de Ho Chi Minh é Tio Ho.
+Q:Qual a alcunha de Ho Chi Minh?
+A:Tio Ho.
