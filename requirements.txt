@@ -288,7 +288,7 @@ stevedore==1.30.0
 swiglpk==1.4.4
 tabulate==0.8.3
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.9.3
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 termdown==1.16.0
