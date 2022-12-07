@@ -23,7 +23,7 @@ bs4==0.0.1
 -e /Users/jd/Library/Python/3.5/lib/python/site-packages
 bz2file==0.98
 cbpro==1.1.4
-certifi==2017.11.5
+certifi==2022.12.7
 cffi==1.13.2
 chardet==3.0.4
 chart-studio==1.0.0
