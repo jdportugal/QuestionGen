@@ -35,7 +35,7 @@ coinbase==2.1.0
 colorama==0.3.9
 colorlover==0.3.0
 configparser==4.0.2
-cryptography==2.8
+cryptography==39.0.1
 cssselect==0.9.2
 cufflinks==0.17.0
 cycler==0.10.0
